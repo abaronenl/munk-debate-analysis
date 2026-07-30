@@ -1,0 +1,20 @@
+# Copyrighted source data
+data/raw/*
+!data/raw/.gitkeep
+
+# Generated data
+data/processed/*
+!data/processed/.gitkeep
+
+# Python
+.venv/
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# System and editor
+.DS_Store
+Thumbs.db
+.vscode/
