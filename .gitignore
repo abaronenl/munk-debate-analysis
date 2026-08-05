@@ -1,20 +1,46 @@
-# Copyrighted source data
-data/raw/*
-!data/raw/.gitkeep
+# ============================================================
+# Python environment and cache
+# ============================================================
 
-# Generated data
-data/processed/*
-!data/processed/.gitkeep
-
-# Python
 .venv/
 __pycache__/
 *.py[cod]
+.pytest_cache/
 
+
+# ============================================================
 # Jupyter
+# ============================================================
+
 .ipynb_checkpoints/
 
-# System and editor
+
+# ============================================================
+# Local editor and operating-system files
+# ============================================================
+
+.vscode/
+.idea/
 .DS_Store
 Thumbs.db
-.vscode/
+
+
+# ============================================================
+# Research data
+#
+# Raw copyrighted material, generated intermediate transcripts,
+# and processed research outputs remain local.
+#
+# data/metadata/ is intentionally NOT ignored because manifests
+# and source metadata should be version controlled.
+# ============================================================
+
+data/raw/**
+data/interim/**
+data/processed/**
+
+
+# Keep empty data directories in the repository
+!data/raw/.gitkeep
+!data/interim/.gitkeep
+!data/processed/.gitkeep
