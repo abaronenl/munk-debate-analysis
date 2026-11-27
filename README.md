@@ -7,13 +7,19 @@ agreed while coding the Oxford Union debate.
 
 ## Data policy
 
-The book is copyrighted, so it is never shared or committed:
-`data/raw/`, `data/interim/` and `data/processed/` stay on your own
-computer (see `.gitignore`). Only the scripts, this README, the
-requirements and the coding template can go online. The manifest (below)
-records a SHA-256 fingerprint of the book and of every output, so anyone
-who owns the same edition can check they got exactly the same sentences
-without the book being shared.
+The book itself is never committed: `data/raw/` and `data/interim/` stay
+on your own computer (see `.gitignore`).
+
+`data/processed/` is committed, so the coders get the turns, the
+sentences and the coding workbook straight from the repository. These
+files hold the debate text word for word, so **this repository must stay
+private** while they are in it. Before making it public, remove
+`data/processed/` from the repository and add `data/processed/**` back
+to `.gitignore`.
+
+The manifest (below) records a SHA-256 fingerprint of the book and of
+every output, so anyone who owns the same edition can check they got
+exactly the same sentences.
 
 Source: *How Should We Respond to the Global Refugee Crisis?* (The Munk
 Debates, House of Anansi, 2017, ISBN 9781487002121), EPUB edition, saved
@@ -77,6 +83,10 @@ any sentences are added:
 The template was made from the Oxford workbook with
 `scripts/make_munk_template.py --oxford <path>`; run it again only if the
 frames or the rules change.
+
+Running the pipeline again rebuilds `munk_frame_coding.xlsx` from scratch,
+so each coder works in a copy saved under their own name
+(e.g. `munk_frame_coding_Angela.xlsx`).
 
 By default every sentence goes into the Coding sheet, including the
 moderator's sentences (their Row type shows what they are).

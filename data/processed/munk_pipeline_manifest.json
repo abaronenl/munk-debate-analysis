@@ -1,0 +1,40 @@
+{
+  "created_utc": "2026-11-27T15:38:32+00:00",
+  "analysis_only": false,
+  "source_epub": {
+    "file_name": "global_refugee_crisis.epub",
+    "sha256": "552ea9ca4a619c90eefa937a60a5bee11899c4d29a6dab5b61e3fce3727bab0c"
+  },
+  "scripts": {
+    "parse_munk_epub.py": "0db2f698eb85a3fe39baedf0a000cc42a829d8c4d487f39b578a22e6a84d9c43",
+    "split_munk_sentences.py": "6574314981ad66d0260608aefc99759665ce08db67381f4dd649daf90e7bdc9b",
+    "build_munk_workbook.py": "f75994cefa39156fc82d040adc4ff5995ab643a9ad7705e8ab5bab504dc6d64b",
+    "run_munk_pipeline.py": "54636ff6830f3833a178f32d9962f63df24bf4897aa41d5213fe47565cbded86",
+    "make_munk_template.py": "b9c723f4e73bd53ed23d6f719db81ea62ff9a4aa511d06fe46bb896bedad3196"
+  },
+  "template": {
+    "file_name": "munk_coding_template.xlsx",
+    "sha256": "e03edd3feeecafb851267ed668ca3c0de03f54095db2030ffd981f4160c7285b"
+  },
+  "outputs": {
+    "munk_refugee_all_turns.jsonl": "d182c214e7b07c1b0c081f8726e72ad2efc541215a17b81d630f44c9c8b861c0",
+    "munk_refugee_all_turns.csv": "5954c15f3c474cac127670c392465e30c3300ff1d24697403d822f5f619b45ec",
+    "munk_refugee_openings.jsonl": "be35d699ab82d4a4516b62c08d6e3a3421c911dc892ef19adc7ff4fdf8a8f819",
+    "munk_refugee_openings.csv": "5a342e7b559bf581cec54445879fc6d3011b6be4dba15ec693eb14beb5caee28",
+    "munk_refugee_parsing_report.csv": "8055ffec52242bf162abd62c961206344f509d3e147348e6271c4cdedf8b803c",
+    "munk_refugee_sentences.jsonl": "69b6aef13d6bc0d2ced3ba5540325117c9dedc7ff18fd19c916410c8697bbe32",
+    "munk_refugee_sentences.csv": "bdfb6b2668247640b8f2c86cbf95454443af54ada75f2a3e9c4bc6f58895b207",
+    "munk_frame_coding.xlsx": "ded89818b4506c462dcdc0a4fe0b0005be15e98a92ba28cf6d3d3b270f13edb3"
+  },
+  "counts": {
+    "turns": 89,
+    "sentences": 673
+  },
+  "python": "3.13.18",
+  "libraries": {
+    "beautifulsoup4": "4.15.0",
+    "lxml": "6.1.3",
+    "pysbd": "0.3.4",
+    "openpyxl": "3.1.5"
+  }
+}

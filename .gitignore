@@ -28,8 +28,11 @@ Thumbs.db
 # ============================================================
 # Research data
 #
-# Raw copyrighted material, generated intermediate transcripts,
-# and processed research outputs remain local.
+# The book (data/raw/) and intermediate files stay local.
+#
+# data/processed/ (turns, sentences, coding workbook, manifest) is
+# committed. These files hold the debate text, so the repository
+# must stay private while they are in it.
 #
 # data/metadata/ is intentionally NOT ignored because manifests
 # and source metadata should be version controlled.
@@ -37,7 +40,6 @@ Thumbs.db
 
 data/raw/**
 data/interim/**
-data/processed/**
 
 
 # Keep empty data directories in the repository

@@ -1,0 +1,674 @@
+﻿sentence_id,debate_id,turn_id,paragraph_in_turn,sentence_in_turn,speaker,role,side,phase,include_for_analysis,row_type,char_start,char_end,text
+M0001,MUNK_2016_REFUGEE,0,1,1,Rudyard Griffiths,moderator,,preliminary,False,Moderator,0,78,"Ladies and gentlemen, welcome to the Munk Debate on the global refugee crisis."
+M0002,MUNK_2016_REFUGEE,0,1,2,Rudyard Griffiths,moderator,,preliminary,False,Moderator,79,221,"My name is Rudyard Griffiths and I have the privilege of organizing this semi-annual debate series and, once again, serving as your moderator."
+M0003,MUNK_2016_REFUGEE,0,2,3,Rudyard Griffiths,moderator,,preliminary,False,Moderator,223,488,"I want to begin tonight’s proceedings by welcoming the North America–wide TV audience that is tuning in to this debate right now across Canada from coast to coast to coast on CPAC, Canada’s Public Affairs Channel, and across the continental United States on C-SPAN."
+M0004,MUNK_2016_REFUGEE,0,2,4,Rudyard Griffiths,moderator,,preliminary,False,Moderator,489,653,It’s the first time the Munk Debate has been live throughout the continent of North America and it’s terrific to have that viewing audience joining us this evening.
+M0005,MUNK_2016_REFUGEE,0,3,5,Rudyard Griffiths,moderator,,preliminary,False,Moderator,655,696,A warm hello also to our online audience.
+M0006,MUNK_2016_REFUGEE,0,3,6,Rudyard Griffiths,moderator,,preliminary,False,Moderator,697,777,"They’re logging onto this debate right now on our website, www.munkdebates.com ."
+M0007,MUNK_2016_REFUGEE,0,3,7,Rudyard Griffiths,moderator,,preliminary,False,Moderator,778,850,It’s great to have you as virtual participants in tonight’s proceedings.
+M0008,MUNK_2016_REFUGEE,0,4,8,Rudyard Griffiths,moderator,,preliminary,False,Moderator,852,1015,"And finally, hello to you, the more than three thousand people who’ve once again filled Roy Thomson Hall on a Friday night to capacity for yet another Munk Debate."
+M0009,MUNK_2016_REFUGEE,0,4,9,Rudyard Griffiths,moderator,,preliminary,False,Moderator,1016,1176,All of us associated with the Aurea Foundation thank you for supporting the simple idea that this debate series is dedicated to: more and better public debates.
+M0010,MUNK_2016_REFUGEE,0,4,10,Rudyard Griffiths,moderator,,preliminary,False,Moderator,1177,1209,"So, bravo, ladies and gentlemen."
+M0011,MUNK_2016_REFUGEE,0,4,11,Rudyard Griffiths,moderator,,preliminary,False,Moderator,1210,1261,Thank you for being part of tonight’s conversation.
+M0012,MUNK_2016_REFUGEE,0,5,12,Rudyard Griffiths,moderator,,preliminary,False,Moderator,1263,1509,"Our ability to continue these debates year after year, and to bring some of the world’s sharpest minds and brightest thinkers here to the stage, would not be possible without the generosity, the foresight, and the creativity of our hosts tonight."
+M0013,MUNK_2016_REFUGEE,0,5,13,Rudyard Griffiths,moderator,,preliminary,False,Moderator,1510,1613,"Please join me in a warm appreciation of the Aurea Foundation and its founders, Peter and Melanie Munk."
+M0014,MUNK_2016_REFUGEE,0,6,14,Rudyard Griffiths,moderator,,preliminary,False,Moderator,1615,1654,It’s the moment we’ve been waiting for.
+M0015,MUNK_2016_REFUGEE,0,6,15,Rudyard Griffiths,moderator,,preliminary,False,Moderator,1655,1737,Let’s get our two teams of debaters out here centre stage and our debate underway.
+M0016,MUNK_2016_REFUGEE,0,6,16,Rudyard Griffiths,moderator,,preliminary,False,Moderator,1738,1911,"Our resolution tonight is taken from the inscription on the Statue of Liberty, “Be it resolved: Give us your tired, your poor, your huddled masses yearning to breathe free.”"
+M0017,MUNK_2016_REFUGEE,0,7,17,Rudyard Griffiths,moderator,,preliminary,False,Moderator,1913,1975,Please welcome our first speaker in support of the resolution.
+M0018,MUNK_2016_REFUGEE,0,7,18,Rudyard Griffiths,moderator,,preliminary,False,Moderator,1976,2207,"She’s a former Canadian Supreme Court justice, chief prosecutor of the International Criminal Tribunals for Yugoslavia and Rwanda, and the United Nations High Commissioner for Human Rights (UNHCR), among many other accomplishments."
+M0019,MUNK_2016_REFUGEE,0,7,19,Rudyard Griffiths,moderator,,preliminary,False,Moderator,2208,2268,"Ladies and gentlemen, please welcome Canada’s Louise Arbour."
+M0020,MUNK_2016_REFUGEE,0,8,20,Rudyard Griffiths,moderator,,preliminary,False,Moderator,2270,2382,"Louise’s teammate is the internationally acclaimed historian, cultural commentator, and art critic Simon Schama."
+M0021,MUNK_2016_REFUGEE,0,8,21,Rudyard Griffiths,moderator,,preliminary,False,Moderator,2383,2415,"Please come out on stage, Simon."
+M0022,MUNK_2016_REFUGEE,0,9,22,Rudyard Griffiths,moderator,,preliminary,False,Moderator,2417,2467,"Well, one great team of debaters deserves another."
+M0023,MUNK_2016_REFUGEE,0,9,23,Rudyard Griffiths,moderator,,preliminary,False,Moderator,2468,2681,"Speaking against the resolution, “Be it resolved: Give us your tired, your poor, your huddled masses yearning to breathe free,” is the renowned columnist, author, and conservative human rights activist Mark Steyn."
+M0024,MUNK_2016_REFUGEE,0,10,24,Rudyard Griffiths,moderator,,preliminary,False,Moderator,2683,2809,"Mark’s debating partner is the leader of UKIP, the United Kingdom Independence Party, and a member of the European Parliament."
+M0025,MUNK_2016_REFUGEE,0,10,25,Rudyard Griffiths,moderator,,preliminary,False,Moderator,2810,2852,He’s here tonight from the United Kingdom.
+M0026,MUNK_2016_REFUGEE,0,10,26,Rudyard Griffiths,moderator,,preliminary,False,Moderator,2853,2940,"Under his leadership, UKIP won almost four million votes in the 2015 national election."
+M0027,MUNK_2016_REFUGEE,0,10,27,Rudyard Griffiths,moderator,,preliminary,False,Moderator,2941,2976,"Ladies and gentlemen, Nigel Farage."
+M0028,MUNK_2016_REFUGEE,0,11,28,Rudyard Griffiths,moderator,,preliminary,False,Moderator,2978,3121,"Before our debate begins, I need your help with a last-minute housekeeping item: our countdown clock, an invention we love at the Munk Debates."
+M0029,MUNK_2016_REFUGEE,0,11,29,Rudyard Griffiths,moderator,,preliminary,False,Moderator,3122,3177,It keeps us on schedule and our debaters on their toes.
+M0030,MUNK_2016_REFUGEE,0,11,30,Rudyard Griffiths,moderator,,preliminary,False,Moderator,3178,3316,"When you see these clocks reach their final moments, join me in a round of applause that will let our debaters know that their time is up."
+M0031,MUNK_2016_REFUGEE,0,11,31,Rudyard Griffiths,moderator,,preliminary,False,Moderator,3317,3405,We had Henry Kissinger up here once and he didn’t think his time was up … but I digress.
+M0032,MUNK_2016_REFUGEE,0,11,32,Rudyard Griffiths,moderator,,preliminary,False,Moderator,3406,3467,I don’t think any of our debaters will make the same mistake.
+M0033,MUNK_2016_REFUGEE,0,12,33,Rudyard Griffiths,moderator,,preliminary,False,Moderator,3469,3504,"Now, this is the part I enjoy most."
+M0034,MUNK_2016_REFUGEE,0,12,34,Rudyard Griffiths,moderator,,preliminary,False,Moderator,3505,3579,We asked all of you here tonight to vote on the resolution on your way in.
+M0035,MUNK_2016_REFUGEE,0,12,35,Rudyard Griffiths,moderator,,preliminary,False,Moderator,3580,3729,"You were asked, “Do you support or oppose the motion, ‘Be it resolved: give us your tired, your poor, your huddled masses yearning to breathe free’?”"
+M0036,MUNK_2016_REFUGEE,0,12,36,Rudyard Griffiths,moderator,,preliminary,False,Moderator,3730,3808,"The results are interesting: 77 percent of you agree, and 23 percent disagree."
+M0037,MUNK_2016_REFUGEE,0,13,37,Rudyard Griffiths,moderator,,preliminary,False,Moderator,3810,3956,"To give a sense of how much this debate is in play, we asked: “Depending on what you hear during the debate, are you open to changing your votes?”"
+M0038,MUNK_2016_REFUGEE,0,13,38,Rudyard Griffiths,moderator,,preliminary,False,Moderator,3957,3979,Let’s see that result.
+M0039,MUNK_2016_REFUGEE,0,13,39,Rudyard Griffiths,moderator,,preliminary,False,Moderator,3980,4036,Wow: 79 percent of you were open to changing your votes.
+M0040,MUNK_2016_REFUGEE,0,13,40,Rudyard Griffiths,moderator,,preliminary,False,Moderator,4037,4092,Only 21 percent of you are committed to your viewpoint.
+M0041,MUNK_2016_REFUGEE,0,13,41,Rudyard Griffiths,moderator,,preliminary,False,Moderator,4093,4151,This debate is very much in play; either side can take it.
+M0042,MUNK_2016_REFUGEE,0,14,42,Rudyard Griffiths,moderator,,preliminary,False,Moderator,4153,4188,Let’s go to our opening statements.
+M0043,MUNK_2016_REFUGEE,0,14,43,Rudyard Griffiths,moderator,,preliminary,False,Moderator,4189,4248,I’d like six minutes on the clock for each of our debaters.
+M0044,MUNK_2016_REFUGEE,0,14,44,Rudyard Griffiths,moderator,,preliminary,False,Moderator,4249,4289,"Ms. Arbour, your six minutes begins now."
+M0045,MUNK_2016_REFUGEE,1,1,1,Louise Arbour,debater,pro,opening,True,Sentence,0,20,Thank you very much.
+M0046,MUNK_2016_REFUGEE,1,1,2,Louise Arbour,debater,pro,opening,True,Sentence,21,56,"Good evening, ladies and gentlemen."
+M0047,MUNK_2016_REFUGEE,1,1,3,Louise Arbour,debater,pro,opening,True,Sentence,57,312,"The words of the motion that I’m here to support were written by a woman, Emma Lazarus, and these words are engraved on a famous statute of a woman holding a torch, and maybe less noticeably holding also the tablets of law with a broken chain at her feet."
+M0048,MUNK_2016_REFUGEE,1,1,4,Louise Arbour,debater,pro,opening,True,Sentence,313,393,So it should come as no surprise to you that this has considerable appeal to me.
+M0049,MUNK_2016_REFUGEE,1,1,5,Louise Arbour,debater,pro,opening,True,Sentence,394,422,But don’t let that fool you.
+M0050,MUNK_2016_REFUGEE,1,1,6,Louise Arbour,debater,pro,opening,True,Sentence,423,552,"This is not a sentimental call for do-gooders to unite, nor a romantic projection of what the new world is going to be all about."
+M0051,MUNK_2016_REFUGEE,1,2,7,Louise Arbour,debater,pro,opening,True,Sentence,554,684,"Understood in today’s terms, it’s a moving, poetic way of capturing both the spirit and the letter of the 1951 Refugee Convention."
+M0052,MUNK_2016_REFUGEE,1,2,8,Louise Arbour,debater,pro,opening,True,Sentence,685,993,"It was written essentially because of and for Europe, and it remains the framework within which a world purporting to be governed by the rule of law must deal with the current refugee crisis in Europe and must also stop turning a blind eye to equally pressing crises elsewhere — in South Sudan, for instance."
+M0053,MUNK_2016_REFUGEE,1,2,9,Louise Arbour,debater,pro,opening,True,Sentence,994,1137,This is part of the “Never again!” that the world screamed loud and clear after the Holocaust and has betrayed on so many occasions since then.
+M0054,MUNK_2016_REFUGEE,1,2,10,Louise Arbour,debater,pro,opening,True,Sentence,1138,1171,Today should not be one of those.
+M0055,MUNK_2016_REFUGEE,1,3,11,Louise Arbour,debater,pro,opening,True,Sentence,1173,1253,I want to look at this issue both from a Canadian and international perspective.
+M0056,MUNK_2016_REFUGEE,1,3,12,Louise Arbour,debater,pro,opening,True,Sentence,1254,1296,The international framework is very clear.
+M0057,MUNK_2016_REFUGEE,1,3,13,Louise Arbour,debater,pro,opening,True,Sentence,1297,1587,"Virtually all of the countries concerned with the current flow of refugees fleeing the war-torn countries of Syria, Iraq, Afghanistan, Somalia, and Libya are parties to the Refugee Convention, and they are obligated to grant asylum to those fleeing political and other forms of persecution."
+M0058,MUNK_2016_REFUGEE,1,3,14,Louise Arbour,debater,pro,opening,True,Sentence,1588,1744,The protection framework that is set in place by the convention outlines that refugees should not be penalized for their illegal entry or stay in a country.
+M0059,MUNK_2016_REFUGEE,1,3,15,Louise Arbour,debater,pro,opening,True,Sentence,1745,1930,"The reverse would obviously be a way to completely emasculate the right of asylum, and the principle of non-refoulement precludes returning refugees to countries where they are at risk."
+M0060,MUNK_2016_REFUGEE,1,3,16,Louise Arbour,debater,pro,opening,True,Sentence,1931,2023,This puts a disproportionate demand on countries that are more easily reachable than others.
+M0061,MUNK_2016_REFUGEE,1,3,17,Louise Arbour,debater,pro,opening,True,Sentence,2024,2274,"In the case of Syria, the neighbouring countries of Lebanon, Jordan, and Turkey currently have some 4.5 million Syrian refugees, and the countries that are at the external borders of Europe — Greece, Italy, and so on — are also seeing a large influx."
+M0062,MUNK_2016_REFUGEE,1,4,18,Louise Arbour,debater,pro,opening,True,Sentence,2276,2470,"This leads to another fundamental principle that underpins the Refugee Convention: the need for international co-operation and burden sharing, and I’m cautious here about using the word burden ."
+M0063,MUNK_2016_REFUGEE,1,4,19,Louise Arbour,debater,pro,opening,True,Sentence,2471,2500,Now I want to mention Canada.
+M0064,MUNK_2016_REFUGEE,1,4,20,Louise Arbour,debater,pro,opening,True,Sentence,2501,2589,"We often define ourselves by our geography, and on this issue our geography is relevant."
+M0065,MUNK_2016_REFUGEE,1,4,21,Louise Arbour,debater,pro,opening,True,Sentence,2590,2793,"The nature of our borders is such that we are virtually immune from a flow of asylum seekers arriving on our soil by land or sea — although, the result of the upcoming American elections may change that!"
+M0066,MUNK_2016_REFUGEE,1,4,22,Louise Arbour,debater,pro,opening,True,Sentence,2794,2836,We’ll cross that bridge when we get there.
+M0067,MUNK_2016_REFUGEE,1,4,23,Louise Arbour,debater,pro,opening,True,Sentence,2837,3071,"As a result, I believe we have a special obligation to provide for a generous resettlement program aiming both at welcoming refugees and at easing the burden on states that are struggling to live up to their international obligations."
+M0068,MUNK_2016_REFUGEE,1,4,24,Louise Arbour,debater,pro,opening,True,Sentence,3072,3165,"And I believe that with true international co-operation in place, this is eminently feasible."
+M0069,MUNK_2016_REFUGEE,1,4,25,Louise Arbour,debater,pro,opening,True,Sentence,3166,3381,"We should do it the smart way by ensuring that asylum seekers can travel safely to places of refuge, thereby undercutting the smugglers, and by deploying extraordinary resources to meet this extraordinary challenge."
+M0070,MUNK_2016_REFUGEE,1,5,26,Louise Arbour,debater,pro,opening,True,Sentence,3383,3594,"I am aware of the fear that an influx of foreigners will transform our social fabric in an undesirable way, but the reality is that our social fabric is changing anyway in this increasingly interconnected world."
+M0071,MUNK_2016_REFUGEE,1,5,27,Louise Arbour,debater,pro,opening,True,Sentence,3595,3612,We have a choice.
+M0072,MUNK_2016_REFUGEE,1,5,28,Louise Arbour,debater,pro,opening,True,Sentence,3613,3823,"We can look to the past and stagnate in isolation, or we can embrace a future in which our children will develop their own culture fully open to that of others, inspired by the choices that we are making today."
+M0073,MUNK_2016_REFUGEE,1,5,29,Louise Arbour,debater,pro,opening,True,Sentence,3824,4031,The greatest threat to Western values is not an influx of people who may not share those values today; it’s the hypocrisy of those claiming to protect these values and then repudiating them by their actions.
+M0074,MUNK_2016_REFUGEE,1,6,30,Louise Arbour,debater,pro,opening,True,Sentence,4033,4177,"I expect that we’re going to hear tonight that Muslims are different, that they pose a unique, novel, and existential threat to our democracies."
+M0075,MUNK_2016_REFUGEE,1,6,31,Louise Arbour,debater,pro,opening,True,Sentence,4178,4374,"Not only has this been the ugly response to just about every wave of new immigrants in history, but, ironically, it plays right into the hands of the violent jihadist groups that are attacking us."
+M0076,MUNK_2016_REFUGEE,1,6,32,Louise Arbour,debater,pro,opening,True,Sentence,4375,4437,"These violent groups have a political, not a religious agenda."
+M0077,MUNK_2016_REFUGEE,1,6,33,Louise Arbour,debater,pro,opening,True,Sentence,4438,4691,"They seek to destroy our democracies not by infiltrating or taking over our institutions but by letting us slowly self-implode in response to the fear that risks turning us against ourselves, thereby destroying the very key features of our open society."
+M0078,MUNK_2016_REFUGEE,1,6,34,Louise Arbour,debater,pro,opening,True,Sentence,4692,4870,"We need to be smarter than that, and we need to welcome people who, like all of us who came from somewhere else at some point, will build an ever-evolving free and strong Canada."
+M0079,MUNK_2016_REFUGEE,1,6,35,Louise Arbour,debater,pro,opening,True,Sentence,4871,4891,Thank you very much.
+M0080,MUNK_2016_REFUGEE,2,1,1,Rudyard Griffiths,moderator,,opening,False,Moderator,0,29,With time still on the clock.
+M0081,MUNK_2016_REFUGEE,2,1,2,Rudyard Griffiths,moderator,,opening,False,Moderator,30,57,"Mark Steyn, you’re up next."
+M0082,MUNK_2016_REFUGEE,2,1,3,Rudyard Griffiths,moderator,,opening,False,Moderator,58,86,Your six minutes begins now.
+M0083,MUNK_2016_REFUGEE,3,1,1,Mark Steyn,debater,con,opening,True,Sentence,0,90,Madame Arbour described a refugee situation that is not happening in Europe at the moment.
+M0084,MUNK_2016_REFUGEE,3,1,2,Mark Steyn,debater,con,opening,True,Sentence,91,336,"The great question before us tonight is whether the “huddled masses” on those “teeming shores” are really “yearning to breathe free,” or whether they’re simply economic migrants who want to avail themselves of the comforts of advanced societies."
+M0085,MUNK_2016_REFUGEE,3,1,3,Mark Steyn,debater,con,opening,True,Sentence,337,402,There are three thousand people here in Roy Thomson Hall tonight.
+M0086,MUNK_2016_REFUGEE,3,1,4,Mark Steyn,debater,con,opening,True,Sentence,403,580,"It would nice if everyone who lived in Toronto could be in Roy Thomson Hall right now, but if everyone in Toronto moves into Roy Thomson Hall, it isn’t Roy Thomson Hall anymore."
+M0087,MUNK_2016_REFUGEE,3,1,5,Mark Steyn,debater,con,opening,True,Sentence,581,626,And that’s the situation facing Europe today.
+M0088,MUNK_2016_REFUGEE,3,2,6,Mark Steyn,debater,con,opening,True,Sentence,628,791,The people who have entered Europe are not refugees as the term has traditionally been understood and as Madame Arbour explained in terms of the Geneva Convention.
+M0089,MUNK_2016_REFUGEE,3,2,7,Mark Steyn,debater,con,opening,True,Sentence,792,914,"In Europe in 2015, men represented 77 percent of the asylum applications — that’s an extraordinary population deformation."
+M0090,MUNK_2016_REFUGEE,3,2,8,Mark Steyn,debater,con,opening,True,Sentence,915,1010,"In most civil wars, this is the demographic that would be back home fighting for their country."
+M0091,MUNK_2016_REFUGEE,3,2,9,Mark Steyn,debater,con,opening,True,Sentence,1011,1205,"It’s as if, during the American Revolution, General Washington and the rest of the chaps had gone off to France and left Martha and the other women and children back home to fend for themselves."
+M0092,MUNK_2016_REFUGEE,3,3,10,Mark Steyn,debater,con,opening,True,Sentence,1207,1241,What does it mean to breathe free?
+M0093,MUNK_2016_REFUGEE,3,3,11,Mark Steyn,debater,con,opening,True,Sentence,1242,1321,"Under the Taliban, it’s illegal for Madame Arbour to feel sunlight on her face."
+M0094,MUNK_2016_REFUGEE,3,3,12,Mark Steyn,debater,con,opening,True,Sentence,1322,1371,It’s literally a crime for her to “breathe free.”
+M0095,MUNK_2016_REFUGEE,3,3,13,Mark Steyn,debater,con,opening,True,Sentence,1372,1452,"She can breathe only through a mask approved by the man who owns her, in effect."
+M0096,MUNK_2016_REFUGEE,3,3,14,Mark Steyn,debater,con,opening,True,Sentence,1453,1543,"So what happens when you put a man from that kind of society in, say, a Scandinavian town?"
+M0097,MUNK_2016_REFUGEE,3,3,15,Mark Steyn,debater,con,opening,True,Sentence,1544,1772,"Northern Europe has enjoyed a culture of mixed public bathing since the nineteenth century, but a benign social activity to Germans and Scandinavians is something entirely different to men from a culture where women are chattel."
+M0098,MUNK_2016_REFUGEE,3,3,16,Mark Steyn,debater,con,opening,True,Sentence,1773,1832,Female patrons of public baths are now routinely assaulted.
+M0099,MUNK_2016_REFUGEE,3,3,17,Mark Steyn,debater,con,opening,True,Sentence,1833,1955,"And in January, Sweden’s national swimming arena was forced to segregate men and women in the hot tubs for the first time."
+M0100,MUNK_2016_REFUGEE,3,3,18,Mark Steyn,debater,con,opening,True,Sentence,1956,2026,Goodbye to a century-old tradition; migrant rights trump your culture.
+M0101,MUNK_2016_REFUGEE,3,4,19,Mark Steyn,debater,con,opening,True,Sentence,2028,2150,"Our response is, “Oh, they come from a different culture; they don’t know that you’re not meant to grope women’s breasts.”"
+M0102,MUNK_2016_REFUGEE,3,4,20,Mark Steyn,debater,con,opening,True,Sentence,2151,2242,In Germany they put up pictograms with a breast and a groping hand with a red X through it.
+M0103,MUNK_2016_REFUGEE,3,4,21,Mark Steyn,debater,con,opening,True,Sentence,2243,2442,"Last month, a mere fortnight after acing a training course on how to treat women with respect, a fifteen-year-old Afghan dragged a caterer at a Belgian refugee centre into the basement and raped her."
+M0104,MUNK_2016_REFUGEE,3,4,22,Mark Steyn,debater,con,opening,True,Sentence,2443,2523,We’ll say that the course on treating women with respect needs some fine-tuning.
+M0105,MUNK_2016_REFUGEE,3,4,23,Mark Steyn,debater,con,opening,True,Sentence,2524,2552,We’ll get better pictograms.
+M0106,MUNK_2016_REFUGEE,3,4,24,Mark Steyn,debater,con,opening,True,Sentence,2553,2610,"But in the meantime, migrant rights trump women’s rights."
+M0107,MUNK_2016_REFUGEE,3,5,25,Mark Steyn,debater,con,opening,True,Sentence,2612,2699,Madame Arbour was the first prosecutor ever to charge rape as a crime against humanity.
+M0108,MUNK_2016_REFUGEE,3,5,26,Mark Steyn,debater,con,opening,True,Sentence,2700,2789,In 2007 she published an important report on the use of rape in Sudan as a weapon of war.
+M0109,MUNK_2016_REFUGEE,3,5,27,Mark Steyn,debater,con,opening,True,Sentence,2790,2818,It was a distressing report.
+M0110,MUNK_2016_REFUGEE,3,5,28,Mark Steyn,debater,con,opening,True,Sentence,2819,2926,"She documented fifteen individual cases of sexual assault, including rape, in victims as young as fourteen."
+M0111,MUNK_2016_REFUGEE,3,5,29,Mark Steyn,debater,con,opening,True,Sentence,2927,3113,"If Madame Arbour were to publish a similar report on Germany today, she’d be able to cite more than five hundred cases from just one night in just one town — Cologne — on New Year’s Eve."
+M0112,MUNK_2016_REFUGEE,3,5,30,Mark Steyn,debater,con,opening,True,Sentence,3114,3145,Victims were as young as three.
+M0113,MUNK_2016_REFUGEE,3,5,31,Mark Steyn,debater,con,opening,True,Sentence,3146,3204,Think about that: a three-year-old was raped by a migrant.
+M0114,MUNK_2016_REFUGEE,3,5,32,Mark Steyn,debater,con,opening,True,Sentence,3205,3285,A seven-year-old was gang-raped by five migrants in Hamburg just a few days ago.
+M0115,MUNK_2016_REFUGEE,3,5,33,Mark Steyn,debater,con,opening,True,Sentence,3286,3364,"On Wednesday, a schoolgirl was gang-raped on the ferry from Sweden to Finland."
+M0116,MUNK_2016_REFUGEE,3,5,34,Mark Steyn,debater,con,opening,True,Sentence,3365,3408,Migrant rights now trump children’s rights.
+M0117,MUNK_2016_REFUGEE,3,5,35,Mark Steyn,debater,con,opening,True,Sentence,3409,3518,What a pity Madame Arbour’s successor at the UN isn’t interested in producing a report on that rape epidemic.
+M0118,MUNK_2016_REFUGEE,3,6,36,Mark Steyn,debater,con,opening,True,Sentence,3520,3614,The police chief of Vienna has advised women that it’s no longer safe to go out unaccompanied.
+M0119,MUNK_2016_REFUGEE,3,6,37,Mark Steyn,debater,con,opening,True,Sentence,3615,3669,Migrant rights trump the right to freedom of movement.
+M0120,MUNK_2016_REFUGEE,3,6,38,Mark Steyn,debater,con,opening,True,Sentence,3670,3749,"It’s easy to shrug — “Oh, well, it’s just a few disabled kids, just anecdotes.”"
+M0121,MUNK_2016_REFUGEE,3,6,39,Mark Steyn,debater,con,opening,True,Sentence,3750,3791,Forget the anecdotes and run the numbers.
+M0122,MUNK_2016_REFUGEE,3,6,40,Mark Steyn,debater,con,opening,True,Sentence,3792,4010,"In Europe, unaccompanied minors are 90 percent male, which means that in one year, Swedish adolescents now have a more distorted sex differential than China does after thirty years of its totalitarian one-child policy."
+M0123,MUNK_2016_REFUGEE,3,6,41,Mark Steyn,debater,con,opening,True,Sentence,4011,4054,In China there are 119 boys for every girl.
+M0124,MUNK_2016_REFUGEE,3,6,42,Mark Steyn,debater,con,opening,True,Sentence,4055,4151,"Among Swedish adolescents, it is now 123 boys for every girl, just from last year’s immigration."
+M0125,MUNK_2016_REFUGEE,3,6,43,Mark Steyn,debater,con,opening,True,Sentence,4152,4166,That’s a fact.
+M0126,MUNK_2016_REFUGEE,3,6,44,Mark Steyn,debater,con,opening,True,Sentence,4167,4273,I hope tonight we’ll put aside the sentimentalism that often imbues this subject and stick with the facts.
+M0127,MUNK_2016_REFUGEE,3,7,45,Mark Steyn,debater,con,opening,True,Sentence,4275,4324,Madame Arbour said some things that I agree with.
+M0128,MUNK_2016_REFUGEE,3,7,46,Mark Steyn,debater,con,opening,True,Sentence,4325,4463,"She recently said, “Why are we always talking about the danger that these people will transform us? They may transform us for the better.”"
+M0129,MUNK_2016_REFUGEE,3,7,47,Mark Steyn,debater,con,opening,True,Sentence,4464,4532,So she and I agree that immigration on this scale is transformative.
+M0130,MUNK_2016_REFUGEE,3,7,48,Mark Steyn,debater,con,opening,True,Sentence,4533,4614,The only difference is that Madame Arbour thinks it’s for the better and I don’t.
+M0131,MUNK_2016_REFUGEE,3,7,49,Mark Steyn,debater,con,opening,True,Sentence,4615,4755,I’m genuinely curious to know what aspects of Afghan and Syrian and Sudanese culture she would like us to be transformed by: Women’s rights?
+M0132,MUNK_2016_REFUGEE,3,7,50,Mark Steyn,debater,con,opening,True,Sentence,4756,4812,Fast-track justice whereby gays get thrown off rooftops?
+M0133,MUNK_2016_REFUGEE,3,7,51,Mark Steyn,debater,con,opening,True,Sentence,4813,4822,Polygamy?
+M0134,MUNK_2016_REFUGEE,3,7,52,Mark Steyn,debater,con,opening,True,Sentence,4823,4836,Child brides?
+M0135,MUNK_2016_REFUGEE,3,7,53,Mark Steyn,debater,con,opening,True,Sentence,4837,4854,Clitoridectomies?
+M0136,MUNK_2016_REFUGEE,3,7,54,Mark Steyn,debater,con,opening,True,Sentence,4855,4893,The bracing commitment to free speech?
+M0137,MUNK_2016_REFUGEE,3,7,55,Mark Steyn,debater,con,opening,True,Sentence,4894,4952,I would like an answer on that from Madame Arbour tonight.
+M0138,MUNK_2016_REFUGEE,3,7,56,Mark Steyn,debater,con,opening,True,Sentence,4953,4973,Thank you very much.
+M0139,MUNK_2016_REFUGEE,4,1,1,Rudyard Griffiths,moderator,,opening,False,Moderator,0,26,"Simon Schama, over to you."
+M0140,MUNK_2016_REFUGEE,5,1,1,Simon Schama,debater,pro,opening,True,Sentence,0,71,"Well, I’m going to start by saying, “Oh Canada, your borders are safe.”"
+M0141,MUNK_2016_REFUGEE,5,1,2,Simon Schama,debater,pro,opening,True,Sentence,72,91,I can tell you why.
+M0142,MUNK_2016_REFUGEE,5,1,3,Simon Schama,debater,pro,opening,True,Sentence,92,286,"I was asked this morning at the Toronto airport what I was doing here, and I said, “Well, I’ve come to talk about refugees and migrants,” and I was immediately taken off for secondary screening."
+M0143,MUNK_2016_REFUGEE,5,1,4,Simon Schama,debater,pro,opening,True,Sentence,287,382,So it’s not only dangerous to talk about it; it’s dangerous to be known to be talking about it.
+M0144,MUNK_2016_REFUGEE,5,2,5,Simon Schama,debater,pro,opening,True,Sentence,384,449,The words in our resolution tonight were written by Emma Lazarus.
+M0145,MUNK_2016_REFUGEE,5,2,6,Simon Schama,debater,pro,opening,True,Sentence,450,509,She was a Sephardic Jewess and a wealthy woman in New York.
+M0146,MUNK_2016_REFUGEE,5,2,7,Simon Schama,debater,pro,opening,True,Sentence,510,681,"She wrote them in 1883 after looking at the victims of Russian pogroms who had come to America having suffered horrendous atrocities in Kishinev, Odessa, and Elisavetgrad."
+M0147,MUNK_2016_REFUGEE,5,2,8,Simon Schama,debater,pro,opening,True,Sentence,682,781,"She saw them on Wards Island, and she didn’t make the distinction that they were economic migrants."
+M0148,MUNK_2016_REFUGEE,5,2,9,Simon Schama,debater,pro,opening,True,Sentence,782,821,"By the way, Mark, your number is wrong."
+M0149,MUNK_2016_REFUGEE,5,2,10,Simon Schama,debater,pro,opening,True,Sentence,822,934,"It’s not 77 percent; we know from United Nations agencies that the figure is 61 percent, and that’s significant."
+M0150,MUNK_2016_REFUGEE,5,2,11,Simon Schama,debater,pro,opening,True,Sentence,935,1010,"This is an uninterrupted moment, Mark; we’ll have rebuttal time afterwards."
+M0151,MUNK_2016_REFUGEE,5,2,12,Simon Schama,debater,pro,opening,True,Sentence,1011,1075,"I know radio hosts don’t usually like that, but that’s the case."
+M0152,MUNK_2016_REFUGEE,5,3,13,Simon Schama,debater,pro,opening,True,Sentence,1077,1321,"She did that because when you are fleeing from a place of cruelty and atrocity and your house has been blown up, your whole possibility of livelihood’s been taken away from you, and your children have no food, no medicine, what are you exactly?"
+M0153,MUNK_2016_REFUGEE,5,3,14,Simon Schama,debater,pro,opening,True,Sentence,1322,1459,"You’re terrifyingly running away from catastrophe, and vast numbers of Syrians are displaced — four million of them internally displaced."
+M0154,MUNK_2016_REFUGEE,5,3,15,Simon Schama,debater,pro,opening,True,Sentence,1460,1613,So those who are escaping the hell of Libya and Somalia and Afghanistan are fleeing exactly the monsters of Islamofascism that Mark accurately describes.
+M0155,MUNK_2016_REFUGEE,5,3,16,Simon Schama,debater,pro,opening,True,Sentence,1614,1640,They’re not their friends.
+M0156,MUNK_2016_REFUGEE,5,3,17,Simon Schama,debater,pro,opening,True,Sentence,1641,1682,They’re not their secret co-conspirators.
+M0157,MUNK_2016_REFUGEE,5,3,18,Simon Schama,debater,pro,opening,True,Sentence,1683,1702,They are horrified.
+M0158,MUNK_2016_REFUGEE,5,3,19,Simon Schama,debater,pro,opening,True,Sentence,1703,1748,They’re trying to get away from that culture.
+M0159,MUNK_2016_REFUGEE,5,4,20,Simon Schama,debater,pro,opening,True,Sentence,1750,1796,"Now, it’s fine to say, “Well, in those days …”"
+M0160,MUNK_2016_REFUGEE,5,4,21,Simon Schama,debater,pro,opening,True,Sentence,1797,2198,"And as some of you know, the reason why the lines from Emma Lazarus’s “The New Colossus” were not immediately put on the Statue of Liberty — they were only put there in 1903 as a result of the efforts of her friend Georgina Schuyler — was because of a ferocious agitation on the part of some people at the immigration restriction league and its British equivalent, called the British Brothers’ League."
+M0161,MUNK_2016_REFUGEE,5,4,22,Simon Schama,debater,pro,opening,True,Sentence,2199,2334,"These groups said the unwashed, the filthy, those who do not share our language, our religion, our values would destroy the white race."
+M0162,MUNK_2016_REFUGEE,5,4,23,Simon Schama,debater,pro,opening,True,Sentence,2335,2400,Madison Grant wrote a book called The Passing of the Great Race .
+M0163,MUNK_2016_REFUGEE,5,4,24,Simon Schama,debater,pro,opening,True,Sentence,2401,2488,"Tom Watson, the populist, described the millions of distressed as the scum of creation."
+M0164,MUNK_2016_REFUGEE,5,4,25,Simon Schama,debater,pro,opening,True,Sentence,2489,2668,"Nonetheless, the United States, as an honour to its tradition set out in Crèvecoeur’s “What Is an American” in 1782, admitted five million of those refugees between 1880 and 1890."
+M0165,MUNK_2016_REFUGEE,5,5,26,Simon Schama,debater,pro,opening,True,Sentence,2670,2748,And the argument will be made that in those days democracy was more confident.
+M0166,MUNK_2016_REFUGEE,5,5,27,Simon Schama,debater,pro,opening,True,Sentence,2749,2788,I agree with you absolutely about that.
+M0167,MUNK_2016_REFUGEE,5,5,28,Simon Schama,debater,pro,opening,True,Sentence,2789,2796,It was.
+M0168,MUNK_2016_REFUGEE,5,5,29,Simon Schama,debater,pro,opening,True,Sentence,2797,2820,It was more articulate.
+M0169,MUNK_2016_REFUGEE,5,5,30,Simon Schama,debater,pro,opening,True,Sentence,2821,2843,It was less offensive.
+M0170,MUNK_2016_REFUGEE,5,5,31,Simon Schama,debater,pro,opening,True,Sentence,2844,2867,It was more forthright.
+M0171,MUNK_2016_REFUGEE,5,5,32,Simon Schama,debater,pro,opening,True,Sentence,2868,3014,"And besides, you may say, people coming from eastern Europe or central Europe did not bear democracy the grudge; they didn’t want to overthrow it."
+M0172,MUNK_2016_REFUGEE,5,5,33,Simon Schama,debater,pro,opening,True,Sentence,3015,3029,"Yes, they did."
+M0173,MUNK_2016_REFUGEE,5,5,34,Simon Schama,debater,pro,opening,True,Sentence,3030,3044,"Yes, they did."
+M0174,MUNK_2016_REFUGEE,5,5,35,Simon Schama,debater,pro,opening,True,Sentence,3045,3188,Those teeming millions that Emma Lazarus emotionally described were full of anarchists and communists dedicated to the overthrow of capitalism.
+M0175,MUNK_2016_REFUGEE,5,5,36,Simon Schama,debater,pro,opening,True,Sentence,3189,3479,"But liberal capitalism was strong enough to let them in anyway, and as a result, the American Republic and Great Britain thrived and flourished and prospered, and my own grandparents were among those who had Britain to thank for that more expansive view of what democracy could accommodate."
+M0176,MUNK_2016_REFUGEE,5,6,37,Simon Schama,debater,pro,opening,True,Sentence,3481,3540,"Right now, we’re talking about a drop in the ocean, really."
+M0177,MUNK_2016_REFUGEE,5,6,38,Simon Schama,debater,pro,opening,True,Sentence,3541,3612,There are one billion of us in Europe and Canada and the United States.
+M0178,MUNK_2016_REFUGEE,5,6,39,Simon Schama,debater,pro,opening,True,Sentence,3613,3675,"We’re talking about 20,000 refugees being admitted to Britain."
+M0179,MUNK_2016_REFUGEE,5,6,40,Simon Schama,debater,pro,opening,True,Sentence,3676,3802,"We’re talking about 100,000 refugees in the United States proposed by the president, of whom only 25,000 will come from Syria."
+M0180,MUNK_2016_REFUGEE,5,6,41,Simon Schama,debater,pro,opening,True,Sentence,3803,3872,Are they all ravening sexual monsters of Mark Steyn’s X-rated horror?
+M0181,MUNK_2016_REFUGEE,5,7,42,Simon Schama,debater,pro,opening,True,Sentence,3874,3904,Muslims are not all Salafists.
+M0182,MUNK_2016_REFUGEE,5,7,43,Simon Schama,debater,pro,opening,True,Sentence,3905,3948,And not all Salafists are jihadists either.
+M0183,MUNK_2016_REFUGEE,5,7,44,Simon Schama,debater,pro,opening,True,Sentence,3949,3977,There are quieter Salafists.
+M0184,MUNK_2016_REFUGEE,5,7,45,Simon Schama,debater,pro,opening,True,Sentence,3978,4021,Do Salafist jihadists pose a mortal threat?
+M0185,MUNK_2016_REFUGEE,5,7,46,Simon Schama,debater,pro,opening,True,Sentence,4022,4048,You bet your life they do.
+M0186,MUNK_2016_REFUGEE,5,7,47,Simon Schama,debater,pro,opening,True,Sentence,4049,4163,"There is a real war of that kind going on, but what should we do to resist the poison of apocalyptic millenarians?"
+M0187,MUNK_2016_REFUGEE,5,8,48,Simon Schama,debater,pro,opening,True,Sentence,4165,4231,The answer is not to demonize all Muslims but to engage with them.
+M0188,MUNK_2016_REFUGEE,5,8,49,Simon Schama,debater,pro,opening,True,Sentence,4232,4327,"And we say, “Well, who are we engaging with? There are no Muslims who really want to stand up.”"
+M0189,MUNK_2016_REFUGEE,5,8,50,Simon Schama,debater,pro,opening,True,Sentence,4328,4345,That is not true.
+M0190,MUNK_2016_REFUGEE,5,8,51,Simon Schama,debater,pro,opening,True,Sentence,4346,4473,"After the attack both in Paris and Brussels, 150 imams in New York got up and made a statement about the abhorrence of the act."
+M0191,MUNK_2016_REFUGEE,5,8,52,Simon Schama,debater,pro,opening,True,Sentence,4474,4674,"There are even Koranic scholars, the greatest of whom is Javed Ahmad Ghamidi — if you don’t know his work look it up — who are absolutely dedicated to denouncing jihadism as a perversion of the Koran."
+M0192,MUNK_2016_REFUGEE,5,9,53,Simon Schama,debater,pro,opening,True,Sentence,4676,4795,And I just want to say that it can’t possibly be true that you can’t have a pluralist Muslim adoption of Western norms.
+M0193,MUNK_2016_REFUGEE,5,9,54,Simon Schama,debater,pro,opening,True,Sentence,4796,4908,"In Britain, Nigel, we lived with that for years and years before jihadism became the monstrosity that it is now."
+M0194,MUNK_2016_REFUGEE,5,9,55,Simon Schama,debater,pro,opening,True,Sentence,4909,4945,My green grocer is a Kurdish Muslim.
+M0195,MUNK_2016_REFUGEE,5,9,56,Simon Schama,debater,pro,opening,True,Sentence,4946,5023,We turn on the radio in the morning and you hear Razia Iqbal through the BBC.
+M0196,MUNK_2016_REFUGEE,5,9,57,Simon Schama,debater,pro,opening,True,Sentence,5024,5113,"My local newsagent tells me when to look at the Jewish Chronicle , and his name is Ahmed."
+M0197,MUNK_2016_REFUGEE,6,1,1,Rudyard Griffiths,moderator,,opening,False,Moderator,0,6,Nigel.
+M0198,MUNK_2016_REFUGEE,7,1,1,Nigel Farage,debater,con,opening,True,Sentence,0,24,"Good evening, everybody."
+M0199,MUNK_2016_REFUGEE,7,1,2,Nigel Farage,debater,con,opening,True,Sentence,25,134,"If we’re going to discuss the global refugee crisis, we’d better use the European Union (EU) as a case study."
+M0200,MUNK_2016_REFUGEE,7,1,3,Nigel Farage,debater,con,opening,True,Sentence,135,198,But first we must start by asking ourselves: What is a refugee?
+M0201,MUNK_2016_REFUGEE,7,1,4,Nigel Farage,debater,con,opening,True,Sentence,199,260,"Now, I speak here today as the child of a family of refugees."
+M0202,MUNK_2016_REFUGEE,7,1,5,Nigel Farage,debater,con,opening,True,Sentence,261,412,We were French Protestants being burned at the stake for our political opinions — something many in Westminster would perhaps like to bring back today.
+M0203,MUNK_2016_REFUGEE,7,1,6,Nigel Farage,debater,con,opening,True,Sentence,413,492,There is no country in Europe that needs lectures about looking after refugees.
+M0204,MUNK_2016_REFUGEE,7,1,7,Nigel Farage,debater,con,opening,True,Sentence,493,571,"But I come from a country that has, I think, done it better than anybody else."
+M0205,MUNK_2016_REFUGEE,7,1,8,Nigel Farage,debater,con,opening,True,Sentence,572,614,The Brits have done it with Jewish people.
+M0206,MUNK_2016_REFUGEE,7,1,9,Nigel Farage,debater,con,opening,True,Sentence,615,649,We’ve done it with Ugandan Asians.
+M0207,MUNK_2016_REFUGEE,7,1,10,Nigel Farage,debater,con,opening,True,Sentence,650,672,But what is a refugee?
+M0208,MUNK_2016_REFUGEE,7,1,11,Nigel Farage,debater,con,opening,True,Sentence,673,913,"According to this 1951 convention that we talked about earlier, it’s a person with a well-founded fear of persecution because of race, religion, political opinions, or orientation, who is outside their own country and fears returning to it."
+M0209,MUNK_2016_REFUGEE,7,2,12,Nigel Farage,debater,con,opening,True,Sentence,915,959,I know it’s tempting to support this motion.
+M0210,MUNK_2016_REFUGEE,7,2,13,Nigel Farage,debater,con,opening,True,Sentence,960,1109,"It sounds wonderful — “Give us your poor, your weak, your huddled masses” — and in doing so we can perhaps feel a sense of our own moral superiority."
+M0211,MUNK_2016_REFUGEE,7,2,14,Nigel Farage,debater,con,opening,True,Sentence,1110,1186,But just look where that idea has got the EU in the course of the last year.
+M0212,MUNK_2016_REFUGEE,7,2,15,Nigel Farage,debater,con,opening,True,Sentence,1187,1460,"Jean-Claude Juncker, the unelected European Commission president who, I have to say after a good lunch, is rather fun to be with — particularly if I’ve been with him, actually — has changed the definition of what a refugee is to include people who come from war-torn areas."
+M0213,MUNK_2016_REFUGEE,7,2,16,Nigel Farage,debater,con,opening,True,Sentence,1461,1623,"Given that the United Nations High Commissioner for Refugees says there are currently fifty-nine million people displaced in the world, that’s quite a big number."
+M0214,MUNK_2016_REFUGEE,7,2,17,Nigel Farage,debater,con,opening,True,Sentence,1624,1673,But Juncker has taken an even broader definition.
+M0215,MUNK_2016_REFUGEE,7,2,18,Nigel Farage,debater,con,opening,True,Sentence,1674,1832,"He said that you could qualify as a European refugee if you come from extreme poverty, which would mean three billion people could potentially come to Europe."
+M0216,MUNK_2016_REFUGEE,7,3,19,Nigel Farage,debater,con,opening,True,Sentence,1834,2070,"All of this was massively compounded by Chancellor Angela Merkel, who effectively did say “give us your weak and your poor and your huddled masses” in what I think has proved to be the worst foreign policy decision in Europe since 1945."
+M0217,MUNK_2016_REFUGEE,7,3,20,Nigel Farage,debater,con,opening,True,Sentence,2071,2168,"In my view, her moral superiority was based on a level of war guilt that still exists in Germany."
+M0218,MUNK_2016_REFUGEE,7,3,21,Nigel Farage,debater,con,opening,True,Sentence,2169,2236,But she opened up the doors and a million people came in last year.
+M0219,MUNK_2016_REFUGEE,7,3,22,Nigel Farage,debater,con,opening,True,Sentence,2237,2318,But virtually none of them would qualify as refugees on any classical definition.
+M0220,MUNK_2016_REFUGEE,7,3,23,Nigel Farage,debater,con,opening,True,Sentence,2319,2486,"And in fact, most of them were somewhat aggressive young males who, when they arrived and got through the border, punched the air and chanted like football supporters."
+M0221,MUNK_2016_REFUGEE,7,4,24,Nigel Farage,debater,con,opening,True,Sentence,2488,2727,"I remember as a young man watching the BBC and seeing Ugandan Asians landing on the tarmac at Heathrow, humbled, thankful, and promising that they would repay the debt Britain had shown them by integrating and becoming part of our society."
+M0222,MUNK_2016_REFUGEE,7,4,25,Nigel Farage,debater,con,opening,True,Sentence,2728,2778,"Sadly, that is not what has happened in this case."
+M0223,MUNK_2016_REFUGEE,7,5,26,Nigel Farage,debater,con,opening,True,Sentence,2780,2879,Nobody on this side of the argument is trying to say that Islam is bad or that all Muslims are bad.
+M0224,MUNK_2016_REFUGEE,7,5,27,Nigel Farage,debater,con,opening,True,Sentence,2880,3183,"But what we are saying is that if you allow a very large number of young males to come to European countries, and if they come from a culture where women are at best second-class citizens, don’t be surprised to see abominations such as the one we saw outside the Cologne train station on New Year’s Eve."
+M0225,MUNK_2016_REFUGEE,7,5,28,Nigel Farage,debater,con,opening,True,Sentence,3184,3303,And don’t be surprised that the formerly rather sleepy Swedish city of Malmö has now become the rape capital of Europe.
+M0226,MUNK_2016_REFUGEE,7,6,29,Nigel Farage,debater,con,opening,True,Sentence,3305,3383,But that is nothing compared to what the boss of Europol said three weeks ago.
+M0227,MUNK_2016_REFUGEE,7,6,30,Nigel Farage,debater,con,opening,True,Sentence,3384,3550,"He said there are now five thousand jihadi fighters, every one of them potentially a terrorist, who have got into Europe through the Greek islands posing as migrants."
+M0228,MUNK_2016_REFUGEE,7,6,31,Nigel Farage,debater,con,opening,True,Sentence,3551,3723,"When the Islamic State of Iraq and the Levant (ISIL) says they will use the migrant routes to destroy the civilization of Europe, I suggest we start to take them seriously."
+M0229,MUNK_2016_REFUGEE,7,6,32,Nigel Farage,debater,con,opening,True,Sentence,3724,4079,"And the difference between what is going on now and any other either migratory or refugee wave in the history of humankind that I can see is that never before have we had a fifth column — albeit a small one, thank God — but a fifth column living within our own communities that hates us, wants to kill us, and wants to completely overturn our way of life."
+M0230,MUNK_2016_REFUGEE,7,7,33,Nigel Farage,debater,con,opening,True,Sentence,4081,4145,I believe that we in the West should give people refugee status.
+M0231,MUNK_2016_REFUGEE,7,7,34,Nigel Farage,debater,con,opening,True,Sentence,4146,4421,"Throughout this whole tragedy in the Middle East and North Africa, not one person in a serious level of politics has dared to speak up for the Christians — the Christians in Iraq and the Christians in Syria, who are now only 10 percent of what they were just a few years ago."
+M0232,MUNK_2016_REFUGEE,7,7,35,Nigel Farage,debater,con,opening,True,Sentence,4422,4504,They qualify for refugee status because they’re being persecuted for who they are.
+M0233,MUNK_2016_REFUGEE,7,8,36,Nigel Farage,debater,con,opening,True,Sentence,4506,4620,"We have to oppose this motion, which is at best impractical and at worst poses a threat to our entire way of life."
+M0234,MUNK_2016_REFUGEE,7,8,37,Nigel Farage,debater,con,opening,True,Sentence,4621,4669,I want us to have a proper processing mechanism.
+M0235,MUNK_2016_REFUGEE,7,8,38,Nigel Farage,debater,con,opening,True,Sentence,4670,4751,"I want us to do all the things we’ve done, as Brits particularly, over centuries."
+M0236,MUNK_2016_REFUGEE,7,8,39,Nigel Farage,debater,con,opening,True,Sentence,4752,4847,"I want us to welcome genuine refugees, not the disaster that is engulfing much of Europe today."
+M0237,MUNK_2016_REFUGEE,7,8,40,Nigel Farage,debater,con,opening,True,Sentence,4848,4858,Thank you.
+M0238,MUNK_2016_REFUGEE,8,1,1,Rudyard Griffiths,moderator,,rebuttal,False,Moderator,0,62,Thank you to the group for the very strong opening statements.
+M0239,MUNK_2016_REFUGEE,8,1,2,Rudyard Griffiths,moderator,,rebuttal,False,Moderator,63,154,We’re now going to go into timed rebuttal so we can get some quick reaction from each team.
+M0240,MUNK_2016_REFUGEE,8,1,3,Rudyard Griffiths,moderator,,rebuttal,False,Moderator,155,210,"Ms. Arbour, we’ll put two minutes on the clock for you."
+M0241,MUNK_2016_REFUGEE,8,1,4,Rudyard Griffiths,moderator,,rebuttal,False,Moderator,211,274,Give us your reaction to what you’ve heard from the other side.
+M0242,MUNK_2016_REFUGEE,9,1,1,Louise Arbour,debater,pro,rebuttal,True,Sentence,0,10,All right.
+M0243,MUNK_2016_REFUGEE,9,1,2,Louise Arbour,debater,pro,rebuttal,True,Sentence,11,29,I have two issues.
+M0244,MUNK_2016_REFUGEE,9,1,3,Louise Arbour,debater,pro,rebuttal,True,Sentence,30,67,"First, on the definition of refugees."
+M0245,MUNK_2016_REFUGEE,9,1,4,Louise Arbour,debater,pro,rebuttal,True,Sentence,68,271,"I think in the current climate of warfare and armed conflict, virtually every civilian that is not a combatant qualifies for refugee protection, unless he is excluded by the convention as a war criminal."
+M0246,MUNK_2016_REFUGEE,9,1,5,Louise Arbour,debater,pro,rebuttal,True,Sentence,272,356,The reality is that civilian protection in armed conflict is currently non-existent.
+M0247,MUNK_2016_REFUGEE,9,1,6,Louise Arbour,debater,pro,rebuttal,True,Sentence,357,452,"They are targeted by all sides and therefore qualify for refugee protection, for the most part."
+M0248,MUNK_2016_REFUGEE,9,2,7,Louise Arbour,debater,pro,rebuttal,True,Sentence,454,725,"As for the suggestion that these waves of young men coming into Europe are all economic migrants: frankly, it is hard to believe why these economic migrants would have paid thousands of dollars for the privilege of drowning in the Mediterranean, but that’s another issue."
+M0249,MUNK_2016_REFUGEE,9,3,8,Louise Arbour,debater,pro,rebuttal,True,Sentence,727,917,I see the clock running out so let me just address very briefly something that I hope we’ll have an opportunity to return to later — the issues raised by these new-born feminists over there.
+M0250,MUNK_2016_REFUGEE,9,3,9,Louise Arbour,debater,pro,rebuttal,True,Sentence,918,1321,"I can assure you that for those of us feminists — certainly the women of my generation — who came from a cultural and political environment in this country in which religion dictated most of our rights and privileges, we’ve managed to start occupying our place in public life not by pushing and trying to exclude others, and certainly not by espousing as champions people who have that kind of ideology."
+M0251,MUNK_2016_REFUGEE,10,1,1,Rudyard Griffiths,moderator,,rebuttal,False,Moderator,0,48,I want to hear from the “pro” team back to back.
+M0252,MUNK_2016_REFUGEE,10,1,2,Rudyard Griffiths,moderator,,rebuttal,False,Moderator,49,122,"Simon, let’s have your rebuttal, and then I’ll move on to Mark and Nigel."
+M0253,MUNK_2016_REFUGEE,11,1,1,Simon Schama,debater,pro,rebuttal,True,Sentence,0,55,I’m struck by how obsessed with sex these two guys are.
+M0254,MUNK_2016_REFUGEE,11,1,2,Simon Schama,debater,pro,rebuttal,True,Sentence,56,79,"It’s a bit sad, really."
+M0255,MUNK_2016_REFUGEE,11,1,3,Simon Schama,debater,pro,rebuttal,True,Sentence,80,368,"I just want to make the point that if you really think about the places — Afghanistan, for example, or Libya, or, of course, Syria — where most of the migrants are coming from, it’s extraordinary to think that they’re really just interested in a moment of possible upward social mobility."
+M0256,MUNK_2016_REFUGEE,11,1,4,Simon Schama,debater,pro,rebuttal,True,Sentence,369,482,"Those are all desperately brutalized, collapsing states in which there seems to be no possibility of normal life."
+M0257,MUNK_2016_REFUGEE,11,1,5,Simon Schama,debater,pro,rebuttal,True,Sentence,483,550,And I dispute those figures about the 77 percent they are claiming.
+M0258,MUNK_2016_REFUGEE,11,1,6,Simon Schama,debater,pro,rebuttal,True,Sentence,551,630,Why would you pursue this if you actually aren’t a family in terrible distress?
+M0259,MUNK_2016_REFUGEE,11,1,7,Simon Schama,debater,pro,rebuttal,True,Sentence,631,764,"As Louise mentioned, haven’t we all seen the dinghies and rubber crafts full of children as well as their elder brothers and fathers?"
+M0260,MUNK_2016_REFUGEE,11,1,8,Simon Schama,debater,pro,rebuttal,True,Sentence,765,846,"Families are desperately trying to make it, often at the cost of their own lives."
+M0261,MUNK_2016_REFUGEE,11,2,9,Simon Schama,debater,pro,rebuttal,True,Sentence,848,924,But suppose that of the people who are coming over more than half are males.
+M0262,MUNK_2016_REFUGEE,11,2,10,Simon Schama,debater,pro,rebuttal,True,Sentence,925,1227,"It would fit with the fact that more than half of those people in displaced horrible camps — like Atmeh, in Syria, where fifty-eight thousand people are stuck with desperate shortages of food and medicine and no sanitation — are men, and it would be logical to send your brothers and uncles out to sea."
+M0263,MUNK_2016_REFUGEE,11,2,11,Simon Schama,debater,pro,rebuttal,True,Sentence,1228,1280,"That’s how it was, actually, in the 1880s and 1890s."
+M0264,MUNK_2016_REFUGEE,11,2,12,Simon Schama,debater,pro,rebuttal,True,Sentence,1281,1377,And all of those men arriving weren’t arriving with a purpose of upping their rape score either.
+M0265,MUNK_2016_REFUGEE,12,1,1,Rudyard Griffiths,moderator,,rebuttal,False,Moderator,0,5,Okay.
+M0266,MUNK_2016_REFUGEE,12,1,2,Rudyard Griffiths,moderator,,rebuttal,False,Moderator,6,126,"Simon, we have lots of time in the cross-examination to get into these issues, so I want to come over to the other side."
+M0267,MUNK_2016_REFUGEE,12,1,3,Rudyard Griffiths,moderator,,rebuttal,False,Moderator,127,191,"Mark Steyn, can we get your quick reaction to what you’ve heard?"
+M0268,MUNK_2016_REFUGEE,13,1,1,Mark Steyn,debater,con,rebuttal,True,Sentence,0,103,"I made a decision tonight that I wasn’t going to do funny stuff, that I was going to be deadly serious."
+M0269,MUNK_2016_REFUGEE,13,1,2,Mark Steyn,debater,con,rebuttal,True,Sentence,104,182,I’m slightly amazed at our colleagues’ ability to get big laughs on gang rape.
+M0270,MUNK_2016_REFUGEE,13,1,3,Mark Steyn,debater,con,rebuttal,True,Sentence,183,239,Madame Arbour talks of the newfound feminists over here.
+M0271,MUNK_2016_REFUGEE,13,1,4,Mark Steyn,debater,con,rebuttal,True,Sentence,240,376,"I’m not much of a feminist, but I draw the line at a three-year-old getting raped and a seven-year-old getting gang-raped in a basement."
+M0272,MUNK_2016_REFUGEE,13,1,5,Mark Steyn,debater,con,rebuttal,True,Sentence,377,449,"Simon tells us that, oh, we’re — funnily enough — all obsessed with sex."
+M0273,MUNK_2016_REFUGEE,13,1,6,Mark Steyn,debater,con,rebuttal,True,Sentence,450,516,Maybe we’re not getting enough action at the Toronto singles bars!
+M0274,MUNK_2016_REFUGEE,13,2,7,Mark Steyn,debater,con,rebuttal,True,Sentence,518,684,"Madame Arbour, as she said, is a feminist of a certain generation, and those feminists were very clear that rape is not about sex, which she said in regards to Sudan."
+M0275,MUNK_2016_REFUGEE,13,2,8,Mark Steyn,debater,con,rebuttal,True,Sentence,685,763,"Whatever Simon may say, rape is about power, which is what Madame Arbour said."
+M0276,MUNK_2016_REFUGEE,13,2,9,Mark Steyn,debater,con,rebuttal,True,Sentence,764,1207,Here’s a random example from the ten days of German migrant crimes in January: a sixteen-year-old boy was raped inside the Wolfsburg city hall; a thirteen-year-old girl was sexually assaulted near a railway station in Ellwangen; three girls were sexually assaulted at a swimming pool in Ansbach; a fifteen-year-old girl was raped at a railway station in Wuppertal; there was an attempted gang rape of a thirteen-year-old girl in Gelsenkirchen.
+M0277,MUNK_2016_REFUGEE,13,2,10,Mark Steyn,debater,con,rebuttal,True,Sentence,1208,1227,I can go on and on.
+M0278,MUNK_2016_REFUGEE,13,2,11,Mark Steyn,debater,con,rebuttal,True,Sentence,1228,1322,"These are all rapes — gang rapes in public places, trains, streets, parks, and even city hall."
+M0279,MUNK_2016_REFUGEE,13,2,12,Mark Steyn,debater,con,rebuttal,True,Sentence,1323,1479,"And I congratulate you on getting big laughs with that — Simon, and Louise — because if I’d known that, I’d be doing open mic on gang rape at a comedy club."
+M0280,MUNK_2016_REFUGEE,13,2,13,Mark Steyn,debater,con,rebuttal,True,Sentence,1480,1495,It isn’t funny!
+M0281,MUNK_2016_REFUGEE,13,2,14,Mark Steyn,debater,con,rebuttal,True,Sentence,1496,1511,It isn’t funny!
+M0282,MUNK_2016_REFUGEE,14,1,1,Rudyard Griffiths,moderator,,rebuttal,False,Moderator,0,11,"Okay, Mark."
+M0283,MUNK_2016_REFUGEE,14,1,2,Rudyard Griffiths,moderator,,rebuttal,False,Moderator,12,49,We’ll be able to get into this later.
+M0284,MUNK_2016_REFUGEE,14,1,3,Rudyard Griffiths,moderator,,rebuttal,False,Moderator,50,66,Your time is up.
+M0285,MUNK_2016_REFUGEE,15,1,1,Mark Steyn,debater,con,rebuttal,True,Sentence,0,42,And it gets to the heart of the question —
+M0286,MUNK_2016_REFUGEE,16,1,1,Rudyard Griffiths,moderator,,rebuttal,False,Moderator,0,39,"You’re going to have to sit down, Mark."
+M0287,MUNK_2016_REFUGEE,16,1,2,Rudyard Griffiths,moderator,,rebuttal,False,Moderator,40,93,We’ll get into it in the moderated cross-examination.
+M0288,MUNK_2016_REFUGEE,16,1,3,Rudyard Griffiths,moderator,,rebuttal,False,Moderator,94,134,"Nigel, you’re up next for your rebuttal."
+M0289,MUNK_2016_REFUGEE,17,1,1,Nigel Farage,debater,con,rebuttal,True,Sentence,0,10,Thank you.
+M0290,MUNK_2016_REFUGEE,17,1,2,Nigel Farage,debater,con,rebuttal,True,Sentence,11,136,"What Mark has just said is difficult to listen to, and we’d all rather pretend it isn’t happening, but sadly it is happening."
+M0291,MUNK_2016_REFUGEE,17,1,3,Nigel Farage,debater,con,rebuttal,True,Sentence,137,161,"Simon, you’re in denial."
+M0292,MUNK_2016_REFUGEE,17,1,4,Nigel Farage,debater,con,rebuttal,True,Sentence,162,187,I’ll tell you what’s sad.
+M0293,MUNK_2016_REFUGEE,17,1,5,Nigel Farage,debater,con,rebuttal,True,Sentence,188,359,"What’s sad, and you’d know as a historian, is that a hundred years ago women went into factories, earned their first decent pay packets, went to the pub, and got the vote."
+M0294,MUNK_2016_REFUGEE,17,1,6,Nigel Farage,debater,con,rebuttal,True,Sentence,360,588,"We’ve lived through a hundred years of female liberation and emancipation, and now we have the mayors of towns in Germany and in Sweden and in other parts of northern Europe telling women not to walk out after dark on their own."
+M0295,MUNK_2016_REFUGEE,17,1,7,Nigel Farage,debater,con,rebuttal,True,Sentence,589,736,"And in the wake of the Cologne sex attacks, the mayor of that city said to those women they really ought to dress and behave differently in public."
+M0296,MUNK_2016_REFUGEE,17,1,8,Nigel Farage,debater,con,rebuttal,True,Sentence,737,967,"That, Simon, is what is sad — the sheer hypocrisy of those of you that have stood up and said you’re going to defend female rights when you actually think migrant rights are more important than female rights in your own community."
+M0297,MUNK_2016_REFUGEE,17,1,9,Nigel Farage,debater,con,rebuttal,True,Sentence,968,990,"Frankly, shame on you!"
+M0298,MUNK_2016_REFUGEE,17,2,10,Nigel Farage,debater,con,rebuttal,True,Sentence,992,1112,"And, Louise: you’re trying to redefine the 1951 convention on refugee status, but can I just challenge you to something?"
+M0299,MUNK_2016_REFUGEE,17,2,11,Nigel Farage,debater,con,rebuttal,True,Sentence,1113,1290,"You know, maybe, just maybe, you would agree with me that the Australians got it right when faced with a similar problem of people coming in boats in large numbers and drowning."
+M0300,MUNK_2016_REFUGEE,17,2,12,Nigel Farage,debater,con,rebuttal,True,Sentence,1291,1561,"They said nobody will qualify as a refugee if they come through this route, but we will process people offshore genuinely and sincerely; and if they are people who because of their race, religion, or political beliefs qualify as refugees, we in Australia will have them."
+M0301,MUNK_2016_REFUGEE,17,2,13,Nigel Farage,debater,con,rebuttal,True,Sentence,1562,1707,"Wouldn’t it make more sense, Louise, rather than having an open door to the Greek islands, to process people in North Africa and the Middle East?"
+M0302,MUNK_2016_REFUGEE,18,1,1,Rudyard Griffiths,moderator,,moderated_discussion,False,Moderator,0,71,Now we’re going to move on to the moderated portion of this discussion.
+M0303,MUNK_2016_REFUGEE,18,1,2,Rudyard Griffiths,moderator,,moderated_discussion,False,Moderator,72,136,We’ll get into some of the issues that have been raised to date.
+M0304,MUNK_2016_REFUGEE,18,1,3,Rudyard Griffiths,moderator,,moderated_discussion,False,Moderator,137,267,It’s been a hot exchange so far and I want to give Louise and Simon an opportunity to respond to the latest rebuttals we’ve heard.
+M0305,MUNK_2016_REFUGEE,18,1,4,Rudyard Griffiths,moderator,,moderated_discussion,False,Moderator,268,512,"And Louise, because you were mentioned last by Nigel, let’s have you respond first — and maybe specifically to this idea of whether Australia, with a very different approach than what’s happening in Europe, is a model that should be considered."
+M0306,MUNK_2016_REFUGEE,19,1,1,Louise Arbour,debater,pro,moderated_discussion,True,Sentence,0,118,"Well, Nigel, it will come as no surprise to you that I can’t think of much that I would agree with you two on tonight."
+M0307,MUNK_2016_REFUGEE,19,1,2,Louise Arbour,debater,pro,moderated_discussion,True,Sentence,119,143,This is not one of them.
+M0308,MUNK_2016_REFUGEE,19,1,3,Louise Arbour,debater,pro,moderated_discussion,True,Sentence,144,214,Australia is hardly a model of compliance with the Refugee Convention.
+M0309,MUNK_2016_REFUGEE,19,1,4,Louise Arbour,debater,pro,moderated_discussion,True,Sentence,215,293,Let’s assume that we have a genuine asylum seeker as opposed to a gang rapist.
+M0310,MUNK_2016_REFUGEE,19,1,5,Louise Arbour,debater,pro,moderated_discussion,True,Sentence,294,398,"Just for the sake of argument, let’s start with a neutral proposition — somebody’s knocking on the door."
+M0311,MUNK_2016_REFUGEE,19,1,6,Louise Arbour,debater,pro,moderated_discussion,True,Sentence,399,521,The Refugee Convention assumes that this asylum seeker will have to flee his or her territory probably by non-legal means.
+M0312,MUNK_2016_REFUGEE,19,1,7,Louise Arbour,debater,pro,moderated_discussion,True,Sentence,522,558,That’s why we have irregular people.
+M0313,MUNK_2016_REFUGEE,19,1,8,Louise Arbour,debater,pro,moderated_discussion,True,Sentence,559,678,They often enter with no documentation because there are no open channels for these people to escape their predicament.
+M0314,MUNK_2016_REFUGEE,19,1,9,Louise Arbour,debater,pro,moderated_discussion,True,Sentence,679,815,The duty on the country of transit or destination is to have a fair and humane process to determine the bona fides of the refugee claim.
+M0315,MUNK_2016_REFUGEE,19,1,10,Louise Arbour,debater,pro,moderated_discussion,True,Sentence,816,1018,"Australia exports that responsibility — in the same way that the United States exports the responsibility to Mexico, not on refugee issues, but in its processing of migrants who come from Latin America."
+M0316,MUNK_2016_REFUGEE,19,1,11,Louise Arbour,debater,pro,moderated_discussion,True,Sentence,1019,1048,This is not the way to do it.
+M0317,MUNK_2016_REFUGEE,19,1,12,Louise Arbour,debater,pro,moderated_discussion,True,Sentence,1049,1153,Countries should receive people on the assumption that they may very well be people fleeing persecution.
+M0318,MUNK_2016_REFUGEE,19,1,13,Louise Arbour,debater,pro,moderated_discussion,True,Sentence,1154,1347,"They should put in place a fair process in their country, particularly rich countries like ours, like Australia, like the U.S., who have full capacity to do so in a very decent, humane fashion."
+M0319,MUNK_2016_REFUGEE,19,1,14,Louise Arbour,debater,pro,moderated_discussion,True,Sentence,1348,1418,"And, unfortunately, that’s not the example that Australia has set out."
+M0320,MUNK_2016_REFUGEE,20,1,1,Nigel Farage,debater,con,moderated_discussion,True,Sentence,0,41,But how does Greece cope with everything?
+M0321,MUNK_2016_REFUGEE,20,1,2,Nigel Farage,debater,con,moderated_discussion,True,Sentence,42,63,Isn’t this the point?
+M0322,MUNK_2016_REFUGEE,20,1,3,Nigel Farage,debater,con,moderated_discussion,True,Sentence,64,193,"I know that some people have gone to Italy, but Greece has seen just a vast influx of people and there is no sign of it stopping."
+M0323,MUNK_2016_REFUGEE,20,1,4,Nigel Farage,debater,con,moderated_discussion,True,Sentence,194,267,A so-called deal with Turkey has seen routes from Libya opening up again.
+M0324,MUNK_2016_REFUGEE,20,1,5,Nigel Farage,debater,con,moderated_discussion,True,Sentence,268,453,"Of the million people who came through the Greek islands last year and finished up settling in Germany, virtually none were properly processed and not one of them was security-screened."
+M0325,MUNK_2016_REFUGEE,20,1,6,Nigel Farage,debater,con,moderated_discussion,True,Sentence,454,601,"And I wonder, under the 1951 definition of refugee status, how many of the million that went to Germany last year would have qualified as refugees."
+M0326,MUNK_2016_REFUGEE,20,1,7,Nigel Farage,debater,con,moderated_discussion,True,Sentence,602,615,Five percent?
+M0327,MUNK_2016_REFUGEE,20,1,8,Nigel Farage,debater,con,moderated_discussion,True,Sentence,616,636,Ten percent maximum?
+M0328,MUNK_2016_REFUGEE,20,2,9,Nigel Farage,debater,con,moderated_discussion,True,Sentence,638,723,I understand there are dreadful things happening in North Africa and the Middle East.
+M0329,MUNK_2016_REFUGEE,20,2,10,Nigel Farage,debater,con,moderated_discussion,True,Sentence,724,870,"All I’m saying is that if we broaden the definition of what a refugee is, European countries will not be able to support this influx indefinitely."
+M0330,MUNK_2016_REFUGEE,20,2,11,Nigel Farage,debater,con,moderated_discussion,True,Sentence,871,900,Last year it was 1.8 million.
+M0331,MUNK_2016_REFUGEE,20,2,12,Nigel Farage,debater,con,moderated_discussion,True,Sentence,901,959,"It’ll be 1.8 million this year, and 1.8 million next year."
+M0332,MUNK_2016_REFUGEE,20,2,13,Nigel Farage,debater,con,moderated_discussion,True,Sentence,960,1006,"In the end, the people simply won’t accept it."
+M0333,MUNK_2016_REFUGEE,21,1,1,Louise Arbour,debater,pro,moderated_discussion,True,Sentence,0,46,"Nigel, there are 500 million people in Europe."
+M0334,MUNK_2016_REFUGEE,21,1,2,Louise Arbour,debater,pro,moderated_discussion,True,Sentence,47,90,You think Europe doesn’t have the capacity?
+M0335,MUNK_2016_REFUGEE,21,1,3,Louise Arbour,debater,pro,moderated_discussion,True,Sentence,91,265,"It’s not the lack of capacity — it’s the lack of political will, in large part because the entire public debate is poisoned by the kind of discourse that we’ve heard tonight."
+M0336,MUNK_2016_REFUGEE,21,1,4,Louise Arbour,debater,pro,moderated_discussion,True,Sentence,266,333,We’re supposed to talk about refugees and you talk about gang rape.
+M0337,MUNK_2016_REFUGEE,22,1,1,Rudyard Griffiths,moderator,,moderated_discussion,False,Moderator,0,25,"Hold on a second, let’s —"
+M0338,MUNK_2016_REFUGEE,23,1,1,Nigel Farage,debater,con,moderated_discussion,True,Sentence,0,86,Of course there is room in our hearts for all of Europe to give people refugee status.
+M0339,MUNK_2016_REFUGEE,23,1,2,Nigel Farage,debater,con,moderated_discussion,True,Sentence,87,174,We just want to know that they’re genuine refugees and not people coming to do us harm.
+M0340,MUNK_2016_REFUGEE,23,1,3,Nigel Farage,debater,con,moderated_discussion,True,Sentence,175,202,That’s all we want to know.
+M0341,MUNK_2016_REFUGEE,24,1,1,Rudyard Griffiths,moderator,,moderated_discussion,False,Moderator,0,65,"I want to bring Simon in on this and then I’ll come to you, Mark."
+M0342,MUNK_2016_REFUGEE,25,1,1,Simon Schama,debater,pro,moderated_discussion,True,Sentence,0,71,I actually don’t disagree with you about the need for better screening.
+M0343,MUNK_2016_REFUGEE,25,1,2,Simon Schama,debater,pro,moderated_discussion,True,Sentence,72,201,"I just want to say, though, to Mark’s fulmination, that it’s an appalling slander, to me, to the Muslim religion, to imply that —"
+M0344,MUNK_2016_REFUGEE,26,1,1,Mark Steyn,debater,con,moderated_discussion,True,Sentence,0,47,I never said the word Muslim in my fulmination.
+M0345,MUNK_2016_REFUGEE,26,1,2,Mark Steyn,debater,con,moderated_discussion,True,Sentence,48,81,It was a Muslim-free fulmination.
+M0346,MUNK_2016_REFUGEE,27,1,1,Simon Schama,debater,pro,moderated_discussion,True,Sentence,0,157,"The implication was that if you’ve got a Muslim immigrant he — and this will be a “he,” according to you — is bound to commit a sexual crime sooner or later."
+M0347,MUNK_2016_REFUGEE,27,1,2,Simon Schama,debater,pro,moderated_discussion,True,Sentence,158,312,That seems to be a monstrous and grotesque falsehood about Muslim communities that have been settled for a long time now in Britain and the United States.
+M0348,MUNK_2016_REFUGEE,27,1,3,Simon Schama,debater,pro,moderated_discussion,True,Sentence,313,349,"Dearborn, Michigan, is not full of —"
+M0349,MUNK_2016_REFUGEE,28,1,1,Mark Steyn,debater,con,moderated_discussion,True,Sentence,0,48,"Well, I will give you a Muslim fulmination then."
+M0350,MUNK_2016_REFUGEE,28,1,2,Mark Steyn,debater,con,moderated_discussion,True,Sentence,49,128,Muslim men are about one and a half to two percent of the population in Norway.
+M0351,MUNK_2016_REFUGEE,28,1,3,Mark Steyn,debater,con,moderated_discussion,True,Sentence,129,187,They account for half of all the rape convictions in Oslo.
+M0352,MUNK_2016_REFUGEE,28,1,4,Mark Steyn,debater,con,moderated_discussion,True,Sentence,188,216,There are differences there.
+M0353,MUNK_2016_REFUGEE,28,1,5,Mark Steyn,debater,con,moderated_discussion,True,Sentence,217,248,There are cultural differences.
+M0354,MUNK_2016_REFUGEE,28,1,6,Mark Steyn,debater,con,moderated_discussion,True,Sentence,249,276,And if you think about it —
+M0355,MUNK_2016_REFUGEE,29,1,1,Simon Schama,debater,pro,moderated_discussion,True,Sentence,0,85,"What is it about Islam that you claim is designed to make men brutal, sexual animals?"
+M0356,MUNK_2016_REFUGEE,30,1,1,Mark Steyn,debater,con,moderated_discussion,True,Sentence,0,17,I’m not talking —
+M0357,MUNK_2016_REFUGEE,31,1,1,Simon Schama,debater,pro,moderated_discussion,True,Sentence,0,96,"And why, then, don’t you want to deport all Muslims from Europe and the Western societies that —"
+M0358,MUNK_2016_REFUGEE,32,1,1,Mark Steyn,debater,con,moderated_discussion,True,Sentence,0,22,Because I distinguish.
+M0359,MUNK_2016_REFUGEE,32,1,2,Mark Steyn,debater,con,moderated_discussion,True,Sentence,23,42,You’re a historian.
+M0360,MUNK_2016_REFUGEE,32,1,3,Mark Steyn,debater,con,moderated_discussion,True,Sentence,43,170,You know as well as I do how many more Muslim men in the First and Second World Wars fought for king and empire than Canadians.
+M0361,MUNK_2016_REFUGEE,32,1,4,Mark Steyn,debater,con,moderated_discussion,True,Sentence,171,237,Muslims have a long tradition of loyalty and service to the crown.
+M0362,MUNK_2016_REFUGEE,32,1,5,Mark Steyn,debater,con,moderated_discussion,True,Sentence,238,365,They were getting Victoria Crosses for extraordinary courage on the battlefield a hundred years ago today during the Great War.
+M0363,MUNK_2016_REFUGEE,32,1,6,Mark Steyn,debater,con,moderated_discussion,True,Sentence,366,380,You know that.
+M0364,MUNK_2016_REFUGEE,32,1,7,Mark Steyn,debater,con,moderated_discussion,True,Sentence,381,633,"What has changed is that we are no longer importing someone who has been to a Muslim school in India in 1948, 1949, someone who would have received an education not different by that much from a grade-schooler in Canada or in Scotland or anywhere else."
+M0365,MUNK_2016_REFUGEE,33,1,1,Rudyard Griffiths,moderator,,moderated_discussion,False,Moderator,0,76,You’ve got to tell us where you’re going with this because you’re losing me.
+M0366,MUNK_2016_REFUGEE,33,1,2,Rudyard Griffiths,moderator,,moderated_discussion,False,Moderator,77,94,What’s the point?
+M0367,MUNK_2016_REFUGEE,34,1,1,Mark Steyn,debater,con,moderated_discussion,True,Sentence,0,53,I’m just establishing my non-Islamophobic bona fides.
+M0368,MUNK_2016_REFUGEE,35,1,1,Rudyard Griffiths,moderator,,moderated_discussion,False,Moderator,0,17,Consider it done.
+M0369,MUNK_2016_REFUGEE,36,1,1,Mark Steyn,debater,con,moderated_discussion,True,Sentence,0,27,But there is an issue here.
+M0370,MUNK_2016_REFUGEE,37,1,1,Rudyard Griffiths,moderator,,moderated_discussion,False,Moderator,0,79,"Let’s move back onto refugees, because this debate is about the refugee crisis."
+M0371,MUNK_2016_REFUGEE,37,1,2,Rudyard Griffiths,moderator,,moderated_discussion,False,Moderator,80,143,There are other dimensions and we’ll continue to get into them.
+M0372,MUNK_2016_REFUGEE,37,1,3,Rudyard Griffiths,moderator,,moderated_discussion,False,Moderator,144,313,"But I want to come to you and pick up a little bit on what Mark and Nigel have been saying, which is that certain societies are better at integrating people than others."
+M0373,MUNK_2016_REFUGEE,37,1,4,Rudyard Griffiths,moderator,,moderated_discussion,False,Moderator,314,376,"Traditionally, Canada thinks that it’s done a pretty good job."
+M0374,MUNK_2016_REFUGEE,37,1,5,Rudyard Griffiths,moderator,,moderated_discussion,False,Moderator,377,421,The United States is called the melting pot.
+M0375,MUNK_2016_REFUGEE,37,1,6,Rudyard Griffiths,moderator,,moderated_discussion,False,Moderator,422,480,European countries often are not very good at integration.
+M0376,MUNK_2016_REFUGEE,37,1,7,Rudyard Griffiths,moderator,,moderated_discussion,False,Moderator,481,527,"Therefore, is this a different kind of crisis?"
+M0377,MUNK_2016_REFUGEE,37,1,8,Rudyard Griffiths,moderator,,moderated_discussion,False,Moderator,528,551,Is this time different?
+M0378,MUNK_2016_REFUGEE,38,1,1,Simon Schama,debater,pro,moderated_discussion,True,Sentence,0,86,I suspect and I hope that we might have a bit of agreement with what I’m about to say.
+M0379,MUNK_2016_REFUGEE,38,1,2,Simon Schama,debater,pro,moderated_discussion,True,Sentence,87,259,"I think Europe has done a pitiful job at forthrightly defending the virtues and moral decencies and political traditions of Western pluralist, liberal capitalist democracy."
+M0380,MUNK_2016_REFUGEE,38,1,3,Simon Schama,debater,pro,moderated_discussion,True,Sentence,260,390,Europe is essentially an organization managing the business cycle and hoping for the best when it comes to shopping for Christmas.
+M0381,MUNK_2016_REFUGEE,38,1,4,Simon Schama,debater,pro,moderated_discussion,True,Sentence,391,423,And that is an abject surrender.
+M0382,MUNK_2016_REFUGEE,38,1,5,Simon Schama,debater,pro,moderated_discussion,True,Sentence,424,593,"If we are ever going to make any headway against militant apocalyptic Salafism, there has to be something to offer the refugee population no matter where they come from."
+M0383,MUNK_2016_REFUGEE,38,1,6,Simon Schama,debater,pro,moderated_discussion,True,Sentence,594,648,"We need to be less defensive, less mute, less muffled."
+M0384,MUNK_2016_REFUGEE,38,1,7,Simon Schama,debater,pro,moderated_discussion,True,Sentence,649,761,They should be reading Locke and Milton and Mill and making that tradition important and a stake in citizenship.
+M0385,MUNK_2016_REFUGEE,38,1,8,Simon Schama,debater,pro,moderated_discussion,True,Sentence,762,867,Isn’t it as important as screening and putting up walls and having decent counter-terrorist intelligence?
+M0386,MUNK_2016_REFUGEE,39,1,1,Nigel Farage,debater,con,moderated_discussion,True,Sentence,0,28,I agree with you completely.
+M0387,MUNK_2016_REFUGEE,39,1,2,Nigel Farage,debater,con,moderated_discussion,True,Sentence,29,64,"We have been abject, pathetic even."
+M0388,MUNK_2016_REFUGEE,39,1,3,Nigel Farage,debater,con,moderated_discussion,True,Sentence,65,99,We’ve lain prostrate on the floor.
+M0389,MUNK_2016_REFUGEE,39,1,4,Nigel Farage,debater,con,moderated_discussion,True,Sentence,100,377,"We’ve allowed people to come in, changed large parts of our communities and our cities, and nobody amongst our leadership — and this is not about getting religion in government — has had the guts and the courage to stand up for our Christian culture, because that’s who we are."
+M0390,MUNK_2016_REFUGEE,40,1,1,Simon Schama,debater,pro,moderated_discussion,True,Sentence,0,68,"No, I don’t want to hear “Christian,” because I happen to be Jewish."
+M0391,MUNK_2016_REFUGEE,40,1,2,Simon Schama,debater,pro,moderated_discussion,True,Sentence,69,86,There’s nothing —
+M0392,MUNK_2016_REFUGEE,41,1,1,Nigel Farage,debater,con,moderated_discussion,True,Sentence,0,67,"Well, as you well know, it is a Judeo-Christian culture, all right?"
+M0393,MUNK_2016_REFUGEE,41,1,2,Nigel Farage,debater,con,moderated_discussion,True,Sentence,68,94,That is our culture today.
+M0394,MUNK_2016_REFUGEE,41,2,3,Nigel Farage,debater,con,moderated_discussion,True,Sentence,96,200,"As soon as I start to talk about real values, you shrink into your shell like everybody else, don’t you?"
+M0395,MUNK_2016_REFUGEE,41,2,4,Nigel Farage,debater,con,moderated_discussion,True,Sentence,201,235,We have a Judeo-Christian culture.
+M0396,MUNK_2016_REFUGEE,41,2,5,Nigel Farage,debater,con,moderated_discussion,True,Sentence,236,282,We have been gutless and weak in defending it.
+M0397,MUNK_2016_REFUGEE,41,2,6,Nigel Farage,debater,con,moderated_discussion,True,Sentence,283,379,"Mark isn’t suggesting that Islam’s a bad religion, and I’m certainly not suggesting that either."
+M0398,MUNK_2016_REFUGEE,41,2,7,Nigel Farage,debater,con,moderated_discussion,True,Sentence,380,484,"But I am saying that Wahhabism, funded by the Saudi Arabians, has been a cancer within Islam, all right?"
+M0399,MUNK_2016_REFUGEE,42,1,1,Simon Schama,debater,pro,moderated_discussion,True,Sentence,0,19,I absolutely agree.
+M0400,MUNK_2016_REFUGEE,43,1,1,Nigel Farage,debater,con,moderated_discussion,True,Sentence,0,84,The 1974 boom in the increase of oil has led to so much of what we’re all suffering.
+M0401,MUNK_2016_REFUGEE,43,1,2,Nigel Farage,debater,con,moderated_discussion,True,Sentence,85,431,"Integration may have been difficult in the past, but here’s why we’re nervous and cautious about opening up our doors to untold millions of people from those countries today: never before have we had to live with the fifth column living inside our own communities and our own country that wants to kill us, blow us up, and change our way of life."
+M0402,MUNK_2016_REFUGEE,43,1,3,Nigel Farage,debater,con,moderated_discussion,True,Sentence,432,575,"I’m arguing for having a sensible refugee policy, but we must, must, must be able to screen people before they come to settle in our countries."
+M0403,MUNK_2016_REFUGEE,43,1,4,Nigel Farage,debater,con,moderated_discussion,True,Sentence,576,614,Surely that’s just plain common sense.
+M0404,MUNK_2016_REFUGEE,44,1,1,Rudyard Griffiths,moderator,,moderated_discussion,False,Moderator,0,73,"I’m going to come to Louise on this point, and then I’ll go to you, Mark."
+M0405,MUNK_2016_REFUGEE,45,1,1,Louise Arbour,debater,pro,moderated_discussion,True,Sentence,0,118,We have to be very careful not to exaggerate the sense of danger and fear that this idea of infiltration can generate.
+M0406,MUNK_2016_REFUGEE,45,1,2,Louise Arbour,debater,pro,moderated_discussion,True,Sentence,119,131,It’s a trap.
+M0407,MUNK_2016_REFUGEE,45,2,3,Louise Arbour,debater,pro,moderated_discussion,True,Sentence,133,355,"I’ve said this a million times, but if we had assumed that most Italians coming to this country, for instance, would be members of the Mafia or that most Asians would be members of the Triad, we would have closed the door."
+M0408,MUNK_2016_REFUGEE,45,2,4,Louise Arbour,debater,pro,moderated_discussion,True,Sentence,356,566,"There is no basis upon which to suggest that the people who are fleeing the atrocious events in Syria, in Libya — and in northern Iraq and so on — are missiles that are being sent to infiltrate our communities."
+M0409,MUNK_2016_REFUGEE,45,3,5,Louise Arbour,debater,pro,moderated_discussion,True,Sentence,568,582,You know what?
+M0410,MUNK_2016_REFUGEE,45,3,6,Louise Arbour,debater,pro,moderated_discussion,True,Sentence,583,802,"I really believe that it’s part of a very sophisticated strategic plan, by those who are intent on destroying our democracies, to tease us into an irrational response where we will destroy the very values we believe in."
+M0411,MUNK_2016_REFUGEE,45,3,7,Louise Arbour,debater,pro,moderated_discussion,True,Sentence,803,937,"We will over-securitize and inevitably use security measures in a discriminatory fashion, with carding and racial profiling and so on."
+M0412,MUNK_2016_REFUGEE,45,3,8,Louise Arbour,debater,pro,moderated_discussion,True,Sentence,938,996,"Slowly, we will destroy our very values out of sheer fear."
+M0413,MUNK_2016_REFUGEE,45,3,9,Louise Arbour,debater,pro,moderated_discussion,True,Sentence,997,1223,"We’re going to do it to ourselves if we cultivate this culture of fear with overreaction, restriction on freedoms, over-securitizing, and targeting of these vulnerable minorities rather than protecting them and including them."
+M0414,MUNK_2016_REFUGEE,46,1,1,Mark Steyn,debater,con,moderated_discussion,True,Sentence,0,37,We are getting to the meat of it now.
+M0415,MUNK_2016_REFUGEE,46,1,2,Mark Steyn,debater,con,moderated_discussion,True,Sentence,38,122,"People talk about European, British, and Canadian values without ever defining them."
+M0416,MUNK_2016_REFUGEE,46,1,3,Mark Steyn,debater,con,moderated_discussion,True,Sentence,123,229,And I think Simon is right that it’s not just about car-chase movies and rap songs and all the rest of it.
+M0417,MUNK_2016_REFUGEE,46,1,4,Mark Steyn,debater,con,moderated_discussion,True,Sentence,230,259,There’s something underlying.
+M0418,MUNK_2016_REFUGEE,46,1,5,Mark Steyn,debater,con,moderated_discussion,True,Sentence,260,440,"I share Louise’s fears of the big security state entirely because I like to write and say what I want, and my writing wound up in front of three human rights commissions in Canada."
+M0419,MUNK_2016_REFUGEE,46,1,6,Mark Steyn,debater,con,moderated_discussion,True,Sentence,441,552,So I certainly don’t want to see the Europeans erect a bigger security state with less free speech than Canada.
+M0420,MUNK_2016_REFUGEE,46,1,7,Mark Steyn,debater,con,moderated_discussion,True,Sentence,553,578,I would hate to see that.
+M0421,MUNK_2016_REFUGEE,46,2,8,Mark Steyn,debater,con,moderated_discussion,True,Sentence,580,757,"Here’s the reality of the situation: look at what happened with the Charlie Hebdo slaughter in Paris a year ago, and then look at the polls of the Muslim communities afterwards."
+M0422,MUNK_2016_REFUGEE,46,2,9,Mark Steyn,debater,con,moderated_discussion,True,Sentence,758,942,"They don’t want to put a bullet in a cartoonist and they don’t want to blow up the Brussels airport, but there is no commitment to the traditional Western understanding of free speech."
+M0423,MUNK_2016_REFUGEE,46,2,10,Mark Steyn,debater,con,moderated_discussion,True,Sentence,943,985,"And as Simon says, we don’t teach them it."
+M0424,MUNK_2016_REFUGEE,46,2,11,Mark Steyn,debater,con,moderated_discussion,True,Sentence,986,1011,We don’t assimilate them.
+M0425,MUNK_2016_REFUGEE,46,2,12,Mark Steyn,debater,con,moderated_discussion,True,Sentence,1012,1149,"You have to have an assimilation tool because if you don’t, you end up with bicultural societies such as Bosnia, which Louise dealt with."
+M0426,MUNK_2016_REFUGEE,46,2,13,Mark Steyn,debater,con,moderated_discussion,True,Sentence,1150,1337,"Bicultural societies are always fundamentally unstable — sometimes more or less benignly so, like Northern Ireland, and sometimes more dangerously, like in Rwanda, as Louise can tell you."
+M0427,MUNK_2016_REFUGEE,46,2,14,Mark Steyn,debater,con,moderated_discussion,True,Sentence,1338,1471,"But if you don’t assimilate these people coming into Europe, then you will have bicultural societies and they will tear Europe apart."
+M0428,MUNK_2016_REFUGEE,47,1,1,Louise Arbour,debater,pro,moderated_discussion,True,Sentence,0,67,"Mark, I assume it’s been a long time since you’ve lived in Toronto."
+M0429,MUNK_2016_REFUGEE,47,1,2,Louise Arbour,debater,pro,moderated_discussion,True,Sentence,68,94,Is that a fair assumption?
+M0430,MUNK_2016_REFUGEE,47,1,3,Louise Arbour,debater,pro,moderated_discussion,True,Sentence,95,156,Have you seen street signs in languages you can’t understand?
+M0431,MUNK_2016_REFUGEE,47,1,4,Louise Arbour,debater,pro,moderated_discussion,True,Sentence,157,185,This is the city we live in.
+M0432,MUNK_2016_REFUGEE,47,1,5,Louise Arbour,debater,pro,moderated_discussion,True,Sentence,186,203,We’re not scared.
+M0433,MUNK_2016_REFUGEE,48,1,1,Mark Steyn,debater,con,moderated_discussion,True,Sentence,0,22,I was born in Toronto.
+M0434,MUNK_2016_REFUGEE,48,1,2,Mark Steyn,debater,con,moderated_discussion,True,Sentence,23,60,I’ve been away for a couple of years.
+M0435,MUNK_2016_REFUGEE,48,1,3,Mark Steyn,debater,con,moderated_discussion,True,Sentence,61,219,"You’re from Quebec, so you know as well as I do that the differences between Quebec francophones and Ontario anglophones are footling in the scheme of things."
+M0436,MUNK_2016_REFUGEE,48,1,4,Mark Steyn,debater,con,moderated_discussion,True,Sentence,220,355,Yet twenty years ago a majority of your fellow Quebec francophones voted that they didn’t want to be in the same country as these guys.
+M0437,MUNK_2016_REFUGEE,48,1,5,Mark Steyn,debater,con,moderated_discussion,True,Sentence,356,472,You’re trying to tell us that Germany or Sweden or Molenbeek — the Islamic emirate inside of the kingdom of Belgium.
+M0438,MUNK_2016_REFUGEE,48,1,6,Mark Steyn,debater,con,moderated_discussion,True,Sentence,473,610,Twenty-five percent of the population of Brussels is Muslim — will somehow be more fundamentally stable and secure than Northern Ireland?
+M0439,MUNK_2016_REFUGEE,49,1,1,Louise Arbour,debater,pro,moderated_discussion,True,Sentence,0,63,"I lived in Belgium, in Brussels, for five years until recently."
+M0440,MUNK_2016_REFUGEE,49,1,2,Louise Arbour,debater,pro,moderated_discussion,True,Sentence,64,153,They don’t have to wait for people coming out of Molenbeek to have separatist tendencies.
+M0441,MUNK_2016_REFUGEE,50,1,1,Mark Steyn,debater,con,moderated_discussion,True,Sentence,0,17,My mom’s Flemish.
+M0442,MUNK_2016_REFUGEE,50,1,2,Mark Steyn,debater,con,moderated_discussion,True,Sentence,18,30,I know that.
+M0443,MUNK_2016_REFUGEE,51,1,1,Louise Arbour,debater,pro,moderated_discussion,True,Sentence,0,8,Exactly.
+M0444,MUNK_2016_REFUGEE,52,1,1,Nigel Farage,debater,con,moderated_discussion,True,Sentence,0,30,"Well, England’s fairly united."
+M0445,MUNK_2016_REFUGEE,52,1,2,Nigel Farage,debater,con,moderated_discussion,True,Sentence,31,66,"Scotland not always, I would agree!"
+M0446,MUNK_2016_REFUGEE,52,1,3,Nigel Farage,debater,con,moderated_discussion,True,Sentence,67,104,But Mark’s point is very interesting.
+M0447,MUNK_2016_REFUGEE,52,1,4,Nigel Farage,debater,con,moderated_discussion,True,Sentence,105,244,Within England we are seeing the growth of a parallel society: 80 percent of Muslim marriages in Britain are not recognized under U.K. law.
+M0448,MUNK_2016_REFUGEE,52,1,5,Nigel Farage,debater,con,moderated_discussion,True,Sentence,245,356,"They’re conducted under Muslim law, which gives the women far fewer rights than they would have under U.K. law."
+M0449,MUNK_2016_REFUGEE,52,1,6,Nigel Farage,debater,con,moderated_discussion,True,Sentence,357,407,We now have eighty-three sharia courts in England.
+M0450,MUNK_2016_REFUGEE,52,1,7,Nigel Farage,debater,con,moderated_discussion,True,Sentence,408,518,We now have tens of thousands of cases of female genital mutilation taking place every single year in England.
+M0451,MUNK_2016_REFUGEE,52,1,8,Nigel Farage,debater,con,moderated_discussion,True,Sentence,519,681,"We think of England as a country with problems that aren’t as big as some of the others in the EU, and yet there’s not yet been one prosecution within our system."
+M0452,MUNK_2016_REFUGEE,52,2,9,Nigel Farage,debater,con,moderated_discussion,True,Sentence,683,794,So Simon and I have got some degree of agreement on this issue: the law has to be applied equally to everybody.
+M0453,MUNK_2016_REFUGEE,52,2,10,Nigel Farage,debater,con,moderated_discussion,True,Sentence,795,865,We mustn’t be scared of applying the law equally to ethnic minorities.
+M0454,MUNK_2016_REFUGEE,52,2,11,Nigel Farage,debater,con,moderated_discussion,True,Sentence,866,927,"If we are, we’re stockpiling massive problems for the future."
+M0455,MUNK_2016_REFUGEE,52,3,12,Nigel Farage,debater,con,moderated_discussion,True,Sentence,929,951,"And Louise, I’m sorry."
+M0456,MUNK_2016_REFUGEE,52,3,13,Nigel Farage,debater,con,moderated_discussion,True,Sentence,952,1066,You’re trying to compare some of the concerns that we’ve got on this side of this debate with previous migrations.
+M0457,MUNK_2016_REFUGEE,52,3,14,Nigel Farage,debater,con,moderated_discussion,True,Sentence,1067,1099,You used the word exaggeration .
+M0458,MUNK_2016_REFUGEE,52,3,15,Nigel Farage,debater,con,moderated_discussion,True,Sentence,1100,1177,"Well, it’s not an exaggeration unless you think the boss of Europol is wrong."
+M0459,MUNK_2016_REFUGEE,52,3,16,Nigel Farage,debater,con,moderated_discussion,True,Sentence,1178,1363,Should we be concerned when he tells us there are five thousand jihadists/terrorists that have come into Europe in the last eighteen months through the Greek islands posing as refugees?
+M0460,MUNK_2016_REFUGEE,52,3,17,Nigel Farage,debater,con,moderated_discussion,True,Sentence,1364,1387,Should we be concerned?
+M0461,MUNK_2016_REFUGEE,52,3,18,Nigel Farage,debater,con,moderated_discussion,True,Sentence,1388,1429,You bet your life we should be concerned.
+M0462,MUNK_2016_REFUGEE,52,3,19,Nigel Farage,debater,con,moderated_discussion,True,Sentence,1430,1488,Only eight of those terrorists killed 130 people in Paris.
+M0463,MUNK_2016_REFUGEE,52,3,20,Nigel Farage,debater,con,moderated_discussion,True,Sentence,1489,1512,We have a problem here.
+M0464,MUNK_2016_REFUGEE,52,3,21,Nigel Farage,debater,con,moderated_discussion,True,Sentence,1513,1539,"Get out of denial, please."
+M0465,MUNK_2016_REFUGEE,53,1,1,Simon Schama,debater,pro,moderated_discussion,True,Sentence,0,44,The deep problem is that jihadi cells exist.
+M0466,MUNK_2016_REFUGEE,53,1,2,Simon Schama,debater,pro,moderated_discussion,True,Sentence,45,93,The San Bernardino shooting was a case in point.
+M0467,MUNK_2016_REFUGEE,53,1,3,Simon Schama,debater,pro,moderated_discussion,True,Sentence,94,153,The main shooter at San Bernardino was an American citizen.
+M0468,MUNK_2016_REFUGEE,53,1,4,Simon Schama,debater,pro,moderated_discussion,True,Sentence,154,180,His wife had a green card.
+M0469,MUNK_2016_REFUGEE,53,1,5,Simon Schama,debater,pro,moderated_discussion,True,Sentence,181,339,"A very significant number of those who are actually carrying out these appallingly homicidal conspiracies are British, American, French, and Belgian citizens."
+M0470,MUNK_2016_REFUGEE,53,1,6,Simon Schama,debater,pro,moderated_discussion,True,Sentence,340,592,"Now, I think we’re agreed that this appalling degree of criminal negligence is partly because they’re not noticing when somebody’s deported from Turkey to the Netherlands and is known as a terrorist, particularly in the case of the Belgian authorities."
+M0471,MUNK_2016_REFUGEE,53,1,7,Simon Schama,debater,pro,moderated_discussion,True,Sentence,593,735,"But if you’re going to do something about homegrown Salafist jihadism, you have to engage with the Muslim community, not demonize it en masse."
+M0472,MUNK_2016_REFUGEE,53,1,8,Simon Schama,debater,pro,moderated_discussion,True,Sentence,736,801,You actually have to welcome the work of the Quilliam Foundation.
+M0473,MUNK_2016_REFUGEE,54,1,1,Nigel Farage,debater,con,moderated_discussion,True,Sentence,0,4,Yes.
+M0474,MUNK_2016_REFUGEE,54,1,2,Nigel Farage,debater,con,moderated_discussion,True,Sentence,5,16,"Well, I do."
+M0475,MUNK_2016_REFUGEE,55,1,1,Simon Schama,debater,pro,moderated_discussion,True,Sentence,0,231,"You have to start not from the pessimistic assumption that all Muslim immigrants or refugees are necessarily going to constitute a fifth column, but from the possibility at least that they can lead active, decent lives of citizens."
+M0476,MUNK_2016_REFUGEE,55,1,2,Simon Schama,debater,pro,moderated_discussion,True,Sentence,232,297,I don’t disagree with you about the horror of genital mutilation.
+M0477,MUNK_2016_REFUGEE,55,1,3,Simon Schama,debater,pro,moderated_discussion,True,Sentence,298,325,Those should be prosecuted.
+M0478,MUNK_2016_REFUGEE,55,1,4,Simon Schama,debater,pro,moderated_discussion,True,Sentence,326,349,We’re with you on this.
+M0479,MUNK_2016_REFUGEE,56,1,1,Nigel Farage,debater,con,moderated_discussion,True,Sentence,0,47,We already have a problem within our countries.
+M0480,MUNK_2016_REFUGEE,56,1,2,Nigel Farage,debater,con,moderated_discussion,True,Sentence,48,168,What I am urging is that we don’t have a complete open door to all the huddled masses so we make the problem even worse.
+M0481,MUNK_2016_REFUGEE,56,1,3,Nigel Farage,debater,con,moderated_discussion,True,Sentence,169,201,That’s the point of this debate.
+M0482,MUNK_2016_REFUGEE,57,1,1,Simon Schama,debater,pro,moderated_discussion,True,Sentence,0,11,Absolutely.
+M0483,MUNK_2016_REFUGEE,57,1,2,Simon Schama,debater,pro,moderated_discussion,True,Sentence,12,36,But that’s already over.
+M0484,MUNK_2016_REFUGEE,57,1,3,Simon Schama,debater,pro,moderated_discussion,True,Sentence,37,124,The EU-Turkey agreement is going to return vast numbers of migrants who land in Greece.
+M0485,MUNK_2016_REFUGEE,57,1,4,Simon Schama,debater,pro,moderated_discussion,True,Sentence,125,150,"Although, I want to say —"
+M0486,MUNK_2016_REFUGEE,58,1,1,Nigel Farage,debater,con,moderated_discussion,True,Sentence,0,65,And then let 77 million Turks join the EU and have free movement?
+M0487,MUNK_2016_REFUGEE,58,1,2,Nigel Farage,debater,con,moderated_discussion,True,Sentence,66,95,"It’s hardly a victory, is it?"
+M0488,MUNK_2016_REFUGEE,59,1,1,Mark Steyn,debater,con,moderated_discussion,True,Sentence,0,29,"Simon’s point is right, here."
+M0489,MUNK_2016_REFUGEE,59,1,2,Mark Steyn,debater,con,moderated_discussion,True,Sentence,30,348,"When you’ve got second- and third-generation Belgians, Frenchmen, Germans, Britons, and Canadians going off to join ISIL, blowing up Paris, blowing up Brussels, that should foster a certain modesty among us that our skills at assimilation are not as awesome and all-encompassing as they were in the nineteenth century."
+M0490,MUNK_2016_REFUGEE,59,1,3,Mark Steyn,debater,con,moderated_discussion,True,Sentence,349,435,"And to think, the response is to suddenly accelerate immigration from the same source?"
+M0491,MUNK_2016_REFUGEE,59,1,4,Mark Steyn,debater,con,moderated_discussion,True,Sentence,436,454,It’s very bizarre.
+M0492,MUNK_2016_REFUGEE,59,1,5,Mark Steyn,debater,con,moderated_discussion,True,Sentence,455,494,In what sense are these people Belgian?
+M0493,MUNK_2016_REFUGEE,60,1,1,Simon Schama,debater,pro,moderated_discussion,True,Sentence,0,37,In what sense is Razia Iqbal British?
+M0494,MUNK_2016_REFUGEE,60,1,2,Simon Schama,debater,pro,moderated_discussion,True,Sentence,38,65,"She’s fully British, right?"
+M0495,MUNK_2016_REFUGEE,61,1,1,Nigel Farage,debater,con,moderated_discussion,True,Sentence,0,25,"Yes, she’s fully British."
+M0496,MUNK_2016_REFUGEE,62,1,1,Simon Schama,debater,pro,moderated_discussion,True,Sentence,0,46,"And she happens to be a British Muslim, right?"
+M0497,MUNK_2016_REFUGEE,62,1,2,Simon Schama,debater,pro,moderated_discussion,True,Sentence,47,118,And how much more British can you get than doing the BBC World Service?
+M0498,MUNK_2016_REFUGEE,63,1,1,Mark Steyn,debater,con,moderated_discussion,True,Sentence,0,4,Yes.
+M0499,MUNK_2016_REFUGEE,63,1,2,Mark Steyn,debater,con,moderated_discussion,True,Sentence,5,55,I work with Zeinab Badawi at Channel 4 in Britain.
+M0500,MUNK_2016_REFUGEE,63,1,3,Mark Steyn,debater,con,moderated_discussion,True,Sentence,56,86,I’ve got no problem with that.
+M0501,MUNK_2016_REFUGEE,63,1,4,Mark Steyn,debater,con,moderated_discussion,True,Sentence,87,107,But that’s my point.
+M0502,MUNK_2016_REFUGEE,63,1,5,Mark Steyn,debater,con,moderated_discussion,True,Sentence,108,154,Holding a passport does not make you Canadian.
+M0503,MUNK_2016_REFUGEE,63,1,6,Mark Steyn,debater,con,moderated_discussion,True,Sentence,155,213,It does not make you Belgian and does not make you French.
+M0504,MUNK_2016_REFUGEE,64,1,1,Louise Arbour,debater,pro,moderated_discussion,True,Sentence,0,5,What?
+M0505,MUNK_2016_REFUGEE,65,1,1,Simon Schama,debater,pro,moderated_discussion,True,Sentence,0,8,I agree.
+M0506,MUNK_2016_REFUGEE,65,1,2,Simon Schama,debater,pro,moderated_discussion,True,Sentence,9,61,"I think this is the difference between us, actually."
+M0507,MUNK_2016_REFUGEE,65,1,3,Simon Schama,debater,pro,moderated_discussion,True,Sentence,62,260,"There are those of us who are possibly naively optimistic humanists, who think it is not impossible to be an orthodox Muslim and a good Canadian or a good Brit, and a good democrat at the same time."
+M0508,MUNK_2016_REFUGEE,65,1,4,Simon Schama,debater,pro,moderated_discussion,True,Sentence,261,477,"And for that you need to be involved and engaged in exercises of civic education, which make it clear that you can indeed go to a mosque for Friday prayers and still be a decent, democratically participating citizen."
+M0509,MUNK_2016_REFUGEE,65,1,5,Simon Schama,debater,pro,moderated_discussion,True,Sentence,478,523,And I don’t think this has actually happened.
+M0510,MUNK_2016_REFUGEE,65,1,6,Simon Schama,debater,pro,moderated_discussion,True,Sentence,524,657,"If you go to the mosque and the imam happens to preach the destruction of the society that you’re living in, bloody well turn him in."
+M0511,MUNK_2016_REFUGEE,65,1,7,Simon Schama,debater,pro,moderated_discussion,True,Sentence,658,670,Turn him in!
+M0512,MUNK_2016_REFUGEE,66,1,1,Rudyard Griffiths,moderator,,moderated_discussion,False,Moderator,0,29,"Mark, do you want to respond?"
+M0513,MUNK_2016_REFUGEE,67,1,1,Mark Steyn,debater,con,moderated_discussion,True,Sentence,0,35,"That doesn’t happen, unfortunately."
+M0514,MUNK_2016_REFUGEE,67,1,2,Mark Steyn,debater,con,moderated_discussion,True,Sentence,36,269,If you look at the RCMP statistics of radicalized mosques you’ll understand that all over this city and Montreal and Calgary and Edmonton and Vancouver there are any number of radicalized mosques where people just sit on their hands.
+M0515,MUNK_2016_REFUGEE,67,1,3,Mark Steyn,debater,con,moderated_discussion,True,Sentence,270,360,"I go back to my point, Simon — you have to have something for migrants to assimilate with."
+M0516,MUNK_2016_REFUGEE,68,1,1,Simon Schama,debater,pro,moderated_discussion,True,Sentence,0,4,Yes.
+M0517,MUNK_2016_REFUGEE,69,1,1,Mark Steyn,debater,con,moderated_discussion,True,Sentence,0,80,The people in British schools haven’t a clue about most of the history you know.
+M0518,MUNK_2016_REFUGEE,69,1,2,Mark Steyn,debater,con,moderated_discussion,True,Sentence,81,132,They don’t teach history in North American schools.
+M0519,MUNK_2016_REFUGEE,69,1,3,Mark Steyn,debater,con,moderated_discussion,True,Sentence,133,255,My kids are in some school where it’s called Social Studies and they do a little bit of it and it’s always the same thing.
+M0520,MUNK_2016_REFUGEE,69,1,4,Mark Steyn,debater,con,moderated_discussion,True,Sentence,256,310,Martin Luther King comes round like the Number 23 bus.
+M0521,MUNK_2016_REFUGEE,70,1,1,Simon Schama,debater,pro,moderated_discussion,True,Sentence,0,51,I actually have a movement to abolish the term now.
+M0522,MUNK_2016_REFUGEE,71,1,1,Mark Steyn,debater,con,moderated_discussion,True,Sentence,0,19,"Well, good for you."
+M0523,MUNK_2016_REFUGEE,71,1,2,Mark Steyn,debater,con,moderated_discussion,True,Sentence,20,44,I’ll sign that petition.
+M0524,MUNK_2016_REFUGEE,72,1,1,Simon Schama,debater,pro,moderated_discussion,True,Sentence,0,22,"I’ll sign you up, yes."
+M0525,MUNK_2016_REFUGEE,73,1,1,Rudyard Griffiths,moderator,,moderated_discussion,False,Moderator,0,71,"I want to move on to numbers, because that’s a big part of this debate."
+M0526,MUNK_2016_REFUGEE,73,1,2,Rudyard Griffiths,moderator,,moderated_discussion,False,Moderator,72,134,Turkey has 2.7 million Syrian refugees; Lebanon has a million.
+M0527,MUNK_2016_REFUGEE,73,1,3,Rudyard Griffiths,moderator,,moderated_discussion,False,Moderator,135,298,"Nigel, if you look at Great Britain in terms of legally settled Syrian refugees, we’re talking almost infinitesimal numbers compared to your European counterparts."
+M0528,MUNK_2016_REFUGEE,73,1,4,Rudyard Griffiths,moderator,,moderated_discussion,False,Moderator,299,492,"What do Britain, Canada, and the United States owe their European allies in terms of trying to relieve the pressure that you and Mark have diagnosed so acutely within their societies right now?"
+M0529,MUNK_2016_REFUGEE,73,1,5,Rudyard Griffiths,moderator,,moderated_discussion,False,Moderator,493,513,What do we owe them?
+M0530,MUNK_2016_REFUGEE,74,1,1,Nigel Farage,debater,con,moderated_discussion,True,Sentence,0,145,We have a newfound problem in the United Kingdom with this because we have an open door to half a billion people who are European Union citizens.
+M0531,MUNK_2016_REFUGEE,74,1,2,Nigel Farage,debater,con,moderated_discussion,True,Sentence,146,286,"As a result of that and generally a pretty weak U.K. immigration policy, net migration to Britain is running at a third of a million a year."
+M0532,MUNK_2016_REFUGEE,74,1,3,Nigel Farage,debater,con,moderated_discussion,True,Sentence,287,352,"That’s if you believe the figures, which I really honestly don’t."
+M0533,MUNK_2016_REFUGEE,74,2,4,Nigel Farage,debater,con,moderated_discussion,True,Sentence,354,452,"So our population is increasing by a third of a million every year, ten times the postwar average."
+M0534,MUNK_2016_REFUGEE,74,2,5,Nigel Farage,debater,con,moderated_discussion,True,Sentence,453,577,"As a result, David Cameron has said he’s going to accept twenty thousand Syrian refugees over the course of this parliament."
+M0535,MUNK_2016_REFUGEE,74,2,6,Nigel Farage,debater,con,moderated_discussion,True,Sentence,578,815,"I’m absolutely certain that if the United Kingdom had an Australian-style point system for immigration and we had net immigration running at average postwar levels of thirty thousand a year, we’d find room for some more genuine refugees."
+M0536,MUNK_2016_REFUGEE,74,2,7,Nigel Farage,debater,con,moderated_discussion,True,Sentence,816,937,"And I hope that when we did, we’d look at the plight of the Christians who are being massacred in Libya, Iraq, and Syria."
+M0537,MUNK_2016_REFUGEE,74,2,8,Nigel Farage,debater,con,moderated_discussion,True,Sentence,938,1102,"Based on every definition that the United Nations has stood for since 1951, those Christians should be guaranteed freedom, security, and refugee status in the West."
+M0538,MUNK_2016_REFUGEE,74,3,9,Nigel Farage,debater,con,moderated_discussion,True,Sentence,1104,1220,"I think Britain, Germany, and Sweden are actually becoming very hard-hearted because of the free movement of people."
+M0539,MUNK_2016_REFUGEE,74,3,10,Nigel Farage,debater,con,moderated_discussion,True,Sentence,1221,1319,We’re becoming rather hard-hearted to things that twenty years ago we’d have been happy to accept.
+M0540,MUNK_2016_REFUGEE,75,1,1,Rudyard Griffiths,moderator,,moderated_discussion,False,Moderator,0,161,"Mark, the United States has a population of over 300 million, but only twelve hundred Syrian refugees have been legally and officially admitted into the country."
+M0541,MUNK_2016_REFUGEE,75,1,2,Rudyard Griffiths,moderator,,moderated_discussion,False,Moderator,162,221,Is the United States shouldering its burden of this crisis?
+M0542,MUNK_2016_REFUGEE,76,1,1,Mark Steyn,debater,con,moderated_discussion,True,Sentence,0,75,"No, but they don’t look at it from a humanitarian perspective on principle."
+M0543,MUNK_2016_REFUGEE,76,1,2,Mark Steyn,debater,con,moderated_discussion,True,Sentence,76,124,They see it as part of the big security picture.
+M0544,MUNK_2016_REFUGEE,76,1,3,Mark Steyn,debater,con,moderated_discussion,True,Sentence,125,208,And it’s a little surreal to be holding this debate in the week following Brussels.
+M0545,MUNK_2016_REFUGEE,76,1,4,Mark Steyn,debater,con,moderated_discussion,True,Sentence,209,351,"Louise and Simon, I think, want to detach the general migration question from the terrorism question, and the Americans don’t see it that way."
+M0546,MUNK_2016_REFUGEE,76,1,5,Mark Steyn,debater,con,moderated_discussion,True,Sentence,352,451,I was glad to hear that the zealots of Canadian customs turned Simon over at Pearson earlier today.
+M0547,MUNK_2016_REFUGEE,76,1,6,Mark Steyn,debater,con,moderated_discussion,True,Sentence,452,531,It’s good to know there’s always someone they don’t want to let in the country!
+M0548,MUNK_2016_REFUGEE,76,1,7,Mark Steyn,debater,con,moderated_discussion,True,Sentence,532,885,"Immigration minister John McCallum is going to say, “We’re not going to have the chaps committing the gang rapes. No, we’re screening for them,” but if you have ever had the pleasure of undergoing so-called secondary interrogation, as this suspicious character did earlier today, you will know that no Western government has a clue about who it lets in."
+M0549,MUNK_2016_REFUGEE,76,2,8,Mark Steyn,debater,con,moderated_discussion,True,Sentence,887,954,The person who committed the San Bernardino crime had a green card.
+M0550,MUNK_2016_REFUGEE,76,2,9,Mark Steyn,debater,con,moderated_discussion,True,Sentence,955,1030,She basically used a jihadist dating site to put together a terrorist cell.
+M0551,MUNK_2016_REFUGEE,76,2,10,Mark Steyn,debater,con,moderated_discussion,True,Sentence,1031,1099,It was an arranged marriage for the purpose of committing terrorism.
+M0552,MUNK_2016_REFUGEE,76,2,11,Mark Steyn,debater,con,moderated_discussion,True,Sentence,1100,1143,And she aced some sort of immigration test.
+M0553,MUNK_2016_REFUGEE,76,2,12,Mark Steyn,debater,con,moderated_discussion,True,Sentence,1144,1185,It’s all “money is no object” down south.
+M0554,MUNK_2016_REFUGEE,76,2,13,Mark Steyn,debater,con,moderated_discussion,True,Sentence,1186,1294,"It’s not like here, where there’s just one little agency dealing with it: the Canada Border Services Agency."
+M0555,MUNK_2016_REFUGEE,76,2,14,Mark Steyn,debater,con,moderated_discussion,True,Sentence,1295,1386,They’ve got something like ninety-seven agencies south of the border looking at this woman.
+M0556,MUNK_2016_REFUGEE,76,2,15,Mark Steyn,debater,con,moderated_discussion,True,Sentence,1387,1451,She aced five separate tests and she still got into the country.
+M0557,MUNK_2016_REFUGEE,76,2,16,Mark Steyn,debater,con,moderated_discussion,True,Sentence,1452,1561,America takes the view that it has no idea who any of these people are and it’s better to be safe than sorry.
+M0558,MUNK_2016_REFUGEE,77,1,1,Rudyard Griffiths,moderator,,moderated_discussion,False,Moderator,0,35,"Let’s come back now to you, Louise."
+M0559,MUNK_2016_REFUGEE,77,1,2,Rudyard Griffiths,moderator,,moderated_discussion,False,Moderator,36,116,What do Canada and the United States owe in terms of their share of this crisis?
+M0560,MUNK_2016_REFUGEE,78,1,1,Louise Arbour,debater,pro,moderated_discussion,True,Sentence,0,85,I think we have to bring this debate a little bit back into a less apocalyptic scale.
+M0561,MUNK_2016_REFUGEE,78,1,2,Louise Arbour,debater,pro,moderated_discussion,True,Sentence,86,222,"As I said at the beginning, the wording of the motion was a poetic way of capturing the spirit and the letter of the Refugee Convention."
+M0562,MUNK_2016_REFUGEE,78,1,3,Louise Arbour,debater,pro,moderated_discussion,True,Sentence,223,370,"Now I think we’ve drifted into the movement of people who in fact are, for the most part, unregulated by international law or international treaty."
+M0563,MUNK_2016_REFUGEE,78,1,4,Louise Arbour,debater,pro,moderated_discussion,True,Sentence,371,492,What we’re talking about now — this so-called huge crisis facing Europe — is very well defined by the Refugee Convention.
+M0564,MUNK_2016_REFUGEE,78,1,5,Louise Arbour,debater,pro,moderated_discussion,True,Sentence,493,609,But we haven’t made a dent in talking about the millions of stateless people in the world who don’t have a passport.
+M0565,MUNK_2016_REFUGEE,78,1,6,Louise Arbour,debater,pro,moderated_discussion,True,Sentence,610,690,"And by the way, Mark, if you have a Canadian passport you’re a Canadian citizen."
+M0566,MUNK_2016_REFUGEE,78,1,7,Louise Arbour,debater,pro,moderated_discussion,True,Sentence,691,727,"There’s no arguing with that, right?"
+M0567,MUNK_2016_REFUGEE,78,2,8,Louise Arbour,debater,pro,moderated_discussion,True,Sentence,729,782,We haven’t made a dent in dealing with statelessness.
+M0568,MUNK_2016_REFUGEE,78,2,9,Louise Arbour,debater,pro,moderated_discussion,True,Sentence,783,932,"We haven’t made a dent in talking about what are called IDPs, internally displaced persons, of which there are millions in Syria itself and in Sudan."
+M0569,MUNK_2016_REFUGEE,78,2,10,Louise Arbour,debater,pro,moderated_discussion,True,Sentence,933,1008,These people are stuck in their own country against a predatory government.
+M0570,MUNK_2016_REFUGEE,78,2,11,Louise Arbour,debater,pro,moderated_discussion,True,Sentence,1009,1065,We have no framework to deal with them and to help them.
+M0571,MUNK_2016_REFUGEE,78,3,12,Louise Arbour,debater,pro,moderated_discussion,True,Sentence,1067,1132,What we’re talking about are people running away from oppression.
+M0572,MUNK_2016_REFUGEE,78,3,13,Louise Arbour,debater,pro,moderated_discussion,True,Sentence,1133,1292,"And frankly, when you consider the immense risks they’re taking to flee, we have to assume that at least the majority of them are bona fide refugee applicants."
+M0573,MUNK_2016_REFUGEE,78,3,14,Louise Arbour,debater,pro,moderated_discussion,True,Sentence,1293,1324,We simply have to process them.
+M0574,MUNK_2016_REFUGEE,78,3,15,Louise Arbour,debater,pro,moderated_discussion,True,Sentence,1325,1364,We’re talking about very small numbers.
+M0575,MUNK_2016_REFUGEE,78,3,16,Louise Arbour,debater,pro,moderated_discussion,True,Sentence,1365,1555,"Put millions into context: it’s millions of refugees knocking on the door of a billion people, if you put Europe, North America, and all the capacity of the world’s wealthy nations together."
+M0576,MUNK_2016_REFUGEE,78,4,17,Louise Arbour,debater,pro,moderated_discussion,True,Sentence,1557,1607,"The key, I believe, is international co-operation."
+M0577,MUNK_2016_REFUGEE,78,4,18,Louise Arbour,debater,pro,moderated_discussion,True,Sentence,1608,1742,"There’s no reason Greece, which was having a lot of financial problems itself, should have been stuck with bearing the largest burden."
+M0578,MUNK_2016_REFUGEE,78,4,19,Louise Arbour,debater,pro,moderated_discussion,True,Sentence,1743,1839,"The European partners, and the Western countries generally, should have stepped up to the plate."
+M0579,MUNK_2016_REFUGEE,78,4,20,Louise Arbour,debater,pro,moderated_discussion,True,Sentence,1840,1927,I think Canada should still do so beyond the already generous signal that we have sent.
+M0580,MUNK_2016_REFUGEE,78,5,21,Louise Arbour,debater,pro,moderated_discussion,True,Sentence,1929,1988,We have the luxury in Canada of doing a full pre-screening.
+M0581,MUNK_2016_REFUGEE,78,5,22,Louise Arbour,debater,pro,moderated_discussion,True,Sentence,1989,2018,People don’t row into Canada.
+M0582,MUNK_2016_REFUGEE,78,5,23,Louise Arbour,debater,pro,moderated_discussion,True,Sentence,2019,2122,They sit in refugee camps where we have months and months of pre-selection processes through the UNHCR.
+M0583,MUNK_2016_REFUGEE,78,5,24,Louise Arbour,debater,pro,moderated_discussion,True,Sentence,2123,2278,"With the luxury of these processes in place, we should be doing tons more, but that would require everyone to work in that direction and stop exaggerating."
+M0584,MUNK_2016_REFUGEE,78,5,25,Louise Arbour,debater,pro,moderated_discussion,True,Sentence,2279,2324,I’m not saying there are zero security risks.
+M0585,MUNK_2016_REFUGEE,78,5,26,Louise Arbour,debater,pro,moderated_discussion,True,Sentence,2325,2498,But I think it will be a stain and a shame on our generation if our response is to blow it up to such an extent that we start talking about erecting walls with barbed wires.
+M0586,MUNK_2016_REFUGEE,79,1,1,Rudyard Griffiths,moderator,,moderated_discussion,False,Moderator,0,154,"We’re coming to the end of our cross-examination period, but Simon, I want to give you the last word in this segment before we go into closing statements."
+M0587,MUNK_2016_REFUGEE,80,1,1,Simon Schama,debater,pro,moderated_discussion,True,Sentence,0,150,I just really want to echo what Louise has said and quickly mention a piece of information that came out today in a report from Amnesty International.
+M0588,MUNK_2016_REFUGEE,80,1,2,Simon Schama,debater,pro,moderated_discussion,True,Sentence,151,235,"It casts a very long shadow over the Turkey-EU agreement, if that’s going to happen."
+M0589,MUNK_2016_REFUGEE,80,1,3,Simon Schama,debater,pro,moderated_discussion,True,Sentence,236,435,"This very, very credible report states that Turkey has been forcibly deporting Syrian refugees back to the war zones from which they have come, which is a horrific thing to contemplate if it is true."
+M0590,MUNK_2016_REFUGEE,80,1,4,Simon Schama,debater,pro,moderated_discussion,True,Sentence,436,556,"The Turks have denied it, but there seems to be a very substantial amount of evidence to suggest the claims are correct."
+M0591,MUNK_2016_REFUGEE,80,1,5,Simon Schama,debater,pro,moderated_discussion,True,Sentence,557,663,"It throws the issue back to the place that we should have perhaps spent more time on, as Louise suggested."
+M0592,MUNK_2016_REFUGEE,80,1,6,Simon Schama,debater,pro,moderated_discussion,True,Sentence,664,982,"There is this kind of universe of misery and suffering, especially considering that one in every three displaced persons in these hellish camps in Syria, some in Jordan and Lebanon, are children, and we have to really think about their plight rather than obsess quite so much on jihadists and rapists in German cities."
+M0593,MUNK_2016_REFUGEE,81,1,1,Rudyard Griffiths,moderator,,closing,False,Moderator,0,10,Very good.
+M0594,MUNK_2016_REFUGEE,81,1,2,Rudyard Griffiths,moderator,,closing,False,Moderator,11,48,It’s time now for closing statements.
+M0595,MUNK_2016_REFUGEE,81,1,3,Rudyard Griffiths,moderator,,closing,False,Moderator,49,120,We’re going to proceed in the opposite order of our opening statements.
+M0596,MUNK_2016_REFUGEE,81,1,4,Rudyard Griffiths,moderator,,closing,False,Moderator,121,193,"So Nigel, your three minutes will go up on the clock and you have a say."
+M0597,MUNK_2016_REFUGEE,82,1,1,Nigel Farage,debater,con,closing,True,Sentence,0,16,"Well, thank you."
+M0598,MUNK_2016_REFUGEE,82,1,2,Nigel Farage,debater,con,closing,True,Sentence,17,59,And thank you for a very civilized debate.
+M0599,MUNK_2016_REFUGEE,82,1,3,Nigel Farage,debater,con,closing,True,Sentence,60,241,"We started off with 77 percent against our side of the argument, which, compared to the odds I’m against when I’m in the European Parliament, strikes me as being quite a good start."
+M0600,MUNK_2016_REFUGEE,82,2,4,Nigel Farage,debater,con,closing,True,Sentence,243,522,"I’ve tried to make the point that I do think it’s beholden upon people in the West to open their hearts to genuine refugees, people who live in fear of direct persecution, imprisonment, and death because of their race, religion, political beliefs, and indeed, sexual orientation."
+M0601,MUNK_2016_REFUGEE,82,2,5,Nigel Farage,debater,con,closing,True,Sentence,523,675,"I’ve tried to make that point, and I also have no doubt that America and Canada could do an awful lot more than they’re doing when it comes to refugees."
+M0602,MUNK_2016_REFUGEE,82,2,6,Nigel Farage,debater,con,closing,True,Sentence,676,976,"But it’s Europe that has faced the front line of this issue over the course of the last eighteen months, and we have thrown out of the window our classical definition of what a refugee is and broadened it to include anybody coming from a war-torn area or, frankly, anybody coming from a poor country."
+M0603,MUNK_2016_REFUGEE,82,3,7,Nigel Farage,debater,con,closing,True,Sentence,978,1090,"What Chancellor Merkel did clearly was irresponsible, damn stupid, and will cost Germany for many years to come."
+M0604,MUNK_2016_REFUGEE,82,3,8,Nigel Farage,debater,con,closing,True,Sentence,1091,1149,In the modern world we do have a genuine terrorist threat.
+M0605,MUNK_2016_REFUGEE,82,4,9,Nigel Farage,debater,con,closing,True,Sentence,1151,1407,"It’s likely that we only need to be concerned about 3 percent of the Muslim communities that are coming into Europe, but if only eight people can cause all that misery we saw in Paris, and half a dozen can do what we saw in Brussels, we have to be careful."
+M0606,MUNK_2016_REFUGEE,82,4,10,Nigel Farage,debater,con,closing,True,Sentence,1408,1432,We need security checks.
+M0607,MUNK_2016_REFUGEE,82,4,11,Nigel Farage,debater,con,closing,True,Sentence,1433,1507,We have to process people offshore and make sure they’re genuine refugees.
+M0608,MUNK_2016_REFUGEE,82,4,12,Nigel Farage,debater,con,closing,True,Sentence,1508,1779,And I’ve tried this evening to challenge the other side to see whether they would agree with me that the Christians who are being crucified and massacred in the Middle East should qualify for refugee status and I’ve not had one positive response from them on this at all.
+M0609,MUNK_2016_REFUGEE,82,4,13,Nigel Farage,debater,con,closing,True,Sentence,1780,1825,"And this, ladies and gentlemen, is the point."
+M0610,MUNK_2016_REFUGEE,82,5,14,Nigel Farage,debater,con,closing,True,Sentence,1827,1858,You cannot support this motion.
+M0611,MUNK_2016_REFUGEE,82,5,15,Nigel Farage,debater,con,closing,True,Sentence,1859,1884,It is idealized nonsense.
+M0612,MUNK_2016_REFUGEE,82,5,16,Nigel Farage,debater,con,closing,True,Sentence,1885,1907,It doesn’t make sense.
+M0613,MUNK_2016_REFUGEE,82,5,17,Nigel Farage,debater,con,closing,True,Sentence,1908,2011,"What we need to have is a sensible, proper, common sense refugee policy to help those who are in peril."
+M0614,MUNK_2016_REFUGEE,82,5,18,Nigel Farage,debater,con,closing,True,Sentence,2012,2112,To open up our doors the way Angela Merkel did is bad news for Germany and is bad news for the West.
+M0615,MUNK_2016_REFUGEE,82,5,19,Nigel Farage,debater,con,closing,True,Sentence,2113,2175,"Stand up and stop such nonsense and oppose the motion, please."
+M0616,MUNK_2016_REFUGEE,82,5,20,Nigel Farage,debater,con,closing,True,Sentence,2176,2186,Thank you.
+M0617,MUNK_2016_REFUGEE,83,1,1,Simon Schama,debater,pro,closing,True,Sentence,0,84,I want to say I don’t disagree at all with your point about the Christian community.
+M0618,MUNK_2016_REFUGEE,83,1,2,Simon Schama,debater,pro,closing,True,Sentence,85,132,The same goes for the Yazidis and Shia Muslims.
+M0619,MUNK_2016_REFUGEE,83,1,3,Simon Schama,debater,pro,closing,True,Sentence,133,189,"As far as ISIL is concerned, Shias aren’t Muslim at all."
+M0620,MUNK_2016_REFUGEE,83,2,4,Simon Schama,debater,pro,closing,True,Sentence,191,262,"I want to end with the words of a Christian, not mine, written in 1624."
+M0621,MUNK_2016_REFUGEE,83,2,5,Simon Schama,debater,pro,closing,True,Sentence,263,311,"You’ll all know some of them at least, I’m sure."
+M0622,MUNK_2016_REFUGEE,83,2,6,Simon Schama,debater,pro,closing,True,Sentence,312,751,"They are from the Dean of St. Paul’s, John Donne: “No man is an island entire of itself; every man is a piece of the continent, a part of the main; if a clod be washed away by the sea, Europe is the less, as well as if a promontory were, as well as any manner of thy friends or of thine own were; any man’s death diminishes me, because I am involved in mankind. And therefore never send to know for whom the bell tolls; it tolls for thee.”"
+M0623,MUNK_2016_REFUGEE,84,1,1,Rudyard Griffiths,moderator,,closing,False,Moderator,0,75,"Louise, we’re going to go to Mark first, and then you’ll get the last word."
+M0624,MUNK_2016_REFUGEE,84,1,2,Rudyard Griffiths,moderator,,closing,False,Moderator,76,81,Mark.
+M0625,MUNK_2016_REFUGEE,85,1,1,Mark Steyn,debater,con,closing,True,Sentence,0,112,Those of us on stage and many of the more distinguished persons in the auditorium tonight lead privileged lives.
+M0626,MUNK_2016_REFUGEE,85,1,2,Mark Steyn,debater,con,closing,True,Sentence,113,329,"We jet off to the European Parliament in Strasbourg or to BBC television studios or to the transnational bureaucracy in Geneva, and from thirty-thousand feet it’s easy to think that what’s going on below us is swell."
+M0627,MUNK_2016_REFUGEE,85,1,3,Mark Steyn,debater,con,closing,True,Sentence,330,404,We will never have to live in Molenbeek in Brussels or Rosengård in Malmö.
+M0628,MUNK_2016_REFUGEE,85,1,4,Mark Steyn,debater,con,closing,True,Sentence,405,456,We will never have to live in Bradford or Toulouse.
+M0629,MUNK_2016_REFUGEE,85,1,5,Mark Steyn,debater,con,closing,True,Sentence,457,489,We get to go to the nice places.
+M0630,MUNK_2016_REFUGEE,85,1,6,Mark Steyn,debater,con,closing,True,Sentence,490,648,"And that should imbue us with a certain modesty when we come up with grand, utopian schemes that testify to what Simon called our naively optimistic humanism."
+M0631,MUNK_2016_REFUGEE,85,1,7,Mark Steyn,debater,con,closing,True,Sentence,649,765,Down there in Molenbeek and in Rosengård they have to live with the consequences of our naively optimistic humanism.
+M0632,MUNK_2016_REFUGEE,85,2,8,Mark Steyn,debater,con,closing,True,Sentence,767,793,We are striking attitudes.
+M0633,MUNK_2016_REFUGEE,85,2,9,Mark Steyn,debater,con,closing,True,Sentence,794,928,Simon spoke earlier about his Kurdish newsagent who’s always a very decent chap when he hands him the Jewish Chronicle in the morning.
+M0634,MUNK_2016_REFUGEE,85,2,10,Mark Steyn,debater,con,closing,True,Sentence,929,958,We all know people like that.
+M0635,MUNK_2016_REFUGEE,85,2,11,Mark Steyn,debater,con,closing,True,Sentence,959,1126,"But at the same time, the political class is designing a solution to the great migrations of the world that will only end in tragedy, and I ask you not to vote for it."
+M0636,MUNK_2016_REFUGEE,85,2,12,Mark Steyn,debater,con,closing,True,Sentence,1127,1220,The more failed states that stay that way will only lead to more failed states in the future.
+M0637,MUNK_2016_REFUGEE,85,2,13,Mark Steyn,debater,con,closing,True,Sentence,1221,1376,"Ultimately, it is better for Syrians to be able to live in Syria, for Afghans to be able to live in Afghanistan, and for Iraqis to be able to live in Iraq."
+M0638,MUNK_2016_REFUGEE,85,2,14,Mark Steyn,debater,con,closing,True,Sentence,1377,1433,The more beacons of liberty around the world the better.
+M0639,MUNK_2016_REFUGEE,85,3,15,Mark Steyn,debater,con,closing,True,Sentence,1435,1540,I confess: I’ve never liked the Emma Lazarus poem that is stapled to the bottom of the Statue of Liberty.
+M0640,MUNK_2016_REFUGEE,85,3,16,Mark Steyn,debater,con,closing,True,Sentence,1541,1690,The French gave the Americans a fabulous statute and the Americans nailed a third-rate poem to it and turned it into a celebration of mass migration.
+M0641,MUNK_2016_REFUGEE,85,3,17,Mark Steyn,debater,con,closing,True,Sentence,1691,1863,"Liberty and mass migration have nothing to do with each other, and often, the latter can imperil the former, which is where Simon’s naively optimistic humanism may take us."
+M0642,MUNK_2016_REFUGEE,85,3,18,Mark Steyn,debater,con,closing,True,Sentence,1864,1948,We cannot fix failed states by inviting millions of their people to move in with us.
+M0643,MUNK_2016_REFUGEE,85,3,19,Mark Steyn,debater,con,closing,True,Sentence,1949,2012,All that ensures is more failed states and more disappointment.
+M0644,MUNK_2016_REFUGEE,85,3,20,Mark Steyn,debater,con,closing,True,Sentence,2013,2161,"Eventually, one by one, the nations of the West will join them, and then you’ll really be yearning to breathe free and there’ll be nowhere to do it."
+M0645,MUNK_2016_REFUGEE,85,3,21,Mark Steyn,debater,con,closing,True,Sentence,2162,2194,Please vote against this motion.
+M0646,MUNK_2016_REFUGEE,86,1,1,Rudyard Griffiths,moderator,,closing,False,Moderator,0,38,"Ms. Arbour, you’ll have the last word."
+M0647,MUNK_2016_REFUGEE,87,1,1,Louise Arbour,debater,pro,closing,True,Sentence,0,175,"Let me say at the outset that I don’t know of any evidence that suggests that Christians from Syria, or the Druze, or the Alawites, have been excluded from refugee protection."
+M0648,MUNK_2016_REFUGEE,87,1,2,Louise Arbour,debater,pro,closing,True,Sentence,176,219,I don’t know where this is all coming from.
+M0649,MUNK_2016_REFUGEE,87,2,3,Louise Arbour,debater,pro,closing,True,Sentence,221,511,"What is being portrayed as a unique case in this debate tonight is in fact just another manifestation of the old myths, stereotypes, and prejudices that have met virtually every wave of immigration, and it’s particularly odious when it targets refugees, not just any other kind of migrants."
+M0650,MUNK_2016_REFUGEE,87,2,4,Louise Arbour,debater,pro,closing,True,Sentence,512,846,"In fact, Doug Saunders in his book and in a piece that he wrote in the Globe and Mail made the point that many of the things that we hear today about Muslim refugees penetrating our Western societies with a fifth column intent on destroying it were also attributed, sometimes in relatively recent parts of our histories, to Catholics."
+M0651,MUNK_2016_REFUGEE,87,2,5,Louise Arbour,debater,pro,closing,True,Sentence,847,1084,"For instance, they were said to be backwards and believed to have a loyalty to Rome more than to their home country; they lived in poor, crime-ridden neighbourhoods; and they were considered anti-democratic, authoritarian by disposition."
+M0652,MUNK_2016_REFUGEE,87,2,6,Louise Arbour,debater,pro,closing,True,Sentence,1085,1131,Doesn’t that sound also like the yellow peril?
+M0653,MUNK_2016_REFUGEE,87,2,7,Louise Arbour,debater,pro,closing,True,Sentence,1132,1317,"People thought we were all going to be transformed into a different society, and that we’d all end up being a mixed colour if we let in these millions of people from all over the world."
+M0654,MUNK_2016_REFUGEE,87,2,8,Louise Arbour,debater,pro,closing,True,Sentence,1318,1423,This plays into exactly the same stereotypes and myths that we’ve heard at every single point in history.
+M0655,MUNK_2016_REFUGEE,87,3,9,Louise Arbour,debater,pro,closing,True,Sentence,1425,1668,"The reality is that, despite an original knee-jerk, at times very hostile reception to newcomers, the history in this country has been a history of immense success of integrating people coming from all kinds of different cultures and religion."
+M0656,MUNK_2016_REFUGEE,87,3,10,Louise Arbour,debater,pro,closing,True,Sentence,1669,1705,And integration is a two-way street.
+M0657,MUNK_2016_REFUGEE,87,3,11,Louise Arbour,debater,pro,closing,True,Sentence,1706,1770,It has changed us historically and will change us in the future.
+M0658,MUNK_2016_REFUGEE,87,3,12,Louise Arbour,debater,pro,closing,True,Sentence,1771,1995,"We must have a very impoverished confidence in our democracy to think that it is so fragile that it cannot sustain the profound differences that will challenge our devotion to free speech, freedom of assembly, and pluralism."
+M0659,MUNK_2016_REFUGEE,87,3,13,Louise Arbour,debater,pro,closing,True,Sentence,1996,2006,Thank you.
+M0660,MUNK_2016_REFUGEE,88,1,1,Rudyard Griffiths,moderator,,closing,False,Moderator,0,305,"Well, ladies and gentlemen, it was a hard-fought debate tonight, which brings to mind something that our founder, Peter Munk, has said on many occasions: it’s one thing to get up, give a speech, and have the stage for forty-five minutes or an hour, but what we’ve seen tonight is something very different."
+M0661,MUNK_2016_REFUGEE,88,1,2,Rudyard Griffiths,moderator,,closing,False,Moderator,306,409,"Four big thinkers challenged each other, put their ideas out there, and contested this important issue."
+M0662,MUNK_2016_REFUGEE,88,1,3,Rudyard Griffiths,moderator,,closing,False,Moderator,410,478,So please join me in a show of appreciation for a phenomenal debate.
+M0663,MUNK_2016_REFUGEE,88,1,4,Rudyard Griffiths,moderator,,closing,False,Moderator,479,509,"Very well done, and thank you."
+M0664,MUNK_2016_REFUGEE,88,2,5,Rudyard Griffiths,moderator,,closing,False,Moderator,511,672,Let’s take a look at where public opinion was in this hall at the beginning of the evening: 77 percent of you agreed with the motion and 23 percent were opposed.
+M0665,MUNK_2016_REFUGEE,88,2,6,Rudyard Griffiths,moderator,,closing,False,Moderator,673,773,"Then we asked how many of you would be open to changing your mind, and 79 percent said you would be."
+M0666,MUNK_2016_REFUGEE,88,2,7,Rudyard Griffiths,moderator,,closing,False,Moderator,774,900,It’s going to be fascinating to see how all of you vote now based on what you’ve heard tonight from the “pro” and “con” sides.
+M0667,MUNK_2016_REFUGEE,88,3,8,Rudyard Griffiths,moderator,,closing,False,Moderator,902,992,I want to end by thanking the Aurea Foundation again for staging these phenomenal debates.
+M0668,MUNK_2016_REFUGEE,88,3,9,Rudyard Griffiths,moderator,,closing,False,Moderator,993,1167,"They’re a great addition to the city and to the country, and this evening has been available to people from coast to coast in Canada and across the continental United States."
+M0669,MUNK_2016_REFUGEE,88,4,10,Rudyard Griffiths,moderator,,closing,False,Moderator,1169,1282,"We’re going to do this all again next autumn, but in the meantime keep watching, keep learning, and keep reading."
+M0670,MUNK_2016_REFUGEE,88,4,11,Rudyard Griffiths,moderator,,closing,False,Moderator,1283,1328,Thank you for joining us at the Munk Debates.
+M0671,MUNK_2016_REFUGEE,88,5,12,Rudyard Griffiths,moderator,,closing,False,Moderator,1330,1425,"Summary: The pre-debate vote was 77 percent in favour of the resolution, 23 percent against it."
+M0672,MUNK_2016_REFUGEE,88,5,13,Rudyard Griffiths,moderator,,closing,False,Moderator,1426,1506,The final vote showed 55 percent in favour of the motion and 45 percent against.
+M0673,MUNK_2016_REFUGEE,88,5,14,Rudyard Griffiths,moderator,,closing,False,Moderator,1507,1629,"Given that more of the voters shifted to the team against the resolution, the victory goes to Nigel Farage and Mark Steyn."

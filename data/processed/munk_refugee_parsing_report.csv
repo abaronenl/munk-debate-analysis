@@ -1,0 +1,22 @@
+﻿speaker,role,side,phase,turn_count,word_count
+Louise Arbour,debater,pro,closing,1,341
+Louise Arbour,debater,pro,moderated_discussion,8,1022
+Louise Arbour,debater,pro,opening,1,840
+Louise Arbour,debater,pro,rebuttal,1,225
+Mark Steyn,debater,con,closing,1,395
+Mark Steyn,debater,con,moderated_discussion,15,1084
+Mark Steyn,debater,con,opening,1,847
+Mark Steyn,debater,con,rebuttal,2,279
+Nigel Farage,debater,con,closing,1,396
+Nigel Farage,debater,con,moderated_discussion,11,1043
+Nigel Farage,debater,con,opening,1,874
+Nigel Farage,debater,con,rebuttal,1,306
+Rudyard Griffiths,moderator,,closing,4,352
+Rudyard Griffiths,moderator,,moderated_discussion,12,425
+Rudyard Griffiths,moderator,,opening,3,22
+Rudyard Griffiths,moderator,,preliminary,1,721
+Rudyard Griffiths,moderator,,rebuttal,5,151
+Simon Schama,debater,pro,closing,1,151
+Simon Schama,debater,pro,moderated_discussion,17,860
+Simon Schama,debater,pro,opening,1,892
+Simon Schama,debater,pro,rebuttal,1,246
