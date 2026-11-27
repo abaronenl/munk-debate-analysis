@@ -18,6 +18,10 @@ Splitting rules (one rule per line, nothing else is changed):
    between the original EPUB paragraphs.
 2. Each paragraph is split into sentences with pysbd (rule-based, no
    randomness, so the same input always gives the same sentences).
+   pysbd keeps a quotation together with the words around it. That is
+   right for a quoted sentence inside a sentence, but in one place it
+   also joins two sentences. Those places are listed in MANUAL_SPLITS
+   below and split there, so every manual change is written down.
 3. Sentence text is never edited. Only leading and trailing spaces are
    removed.
 4. Row type:
@@ -52,6 +56,16 @@ DEFAULT_OUTPUT_DIR = PROJECT_ROOT / "data" / "processed"
 
 ID_PREFIX = "M"
 ID_WIDTH = 4
+
+# Places where pysbd joined two sentences, found by reading its output.
+# Each entry is (turn_id, the text that ends the first sentence); the turn is
+# split right after that text. The script stops if the text is not found
+# exactly once in the turn, or if it does not fall inside one sentence.
+MANUAL_SPLITS = [
+    # Simon Schama, opening statement: a quoted phrase, then a new sentence
+    # starting with "And as some of you know".
+    (5, "“Well, in those days …”"),
+]
 
 # A sentence made only of a bracketed note, e.g. "[Applause]" or "(LAUGHTER)".
 TRANSCRIPT_NOTE = re.compile(r"^\s*[\[(][^\[\]()]*[\])]\s*[.!?]?\s*$")
@@ -129,6 +143,32 @@ def split_paragraph(
     return sentences
 
 
+def apply_manual_splits(
+    turn: dict[str, Any],
+    turn_spans: list[tuple[int, tuple[int, int, str]]],
+) -> list[tuple[int, tuple[int, int, str]]]:
+    """Split the sentences listed in MANUAL_SPLITS for this turn."""
+    text = turn["text"]
+    for turn_id, marker in MANUAL_SPLITS:
+        if turn_id != turn["turn_id"]:
+            continue
+        if text.count(marker) != 1:
+            raise RuntimeError(f"Manual split {marker!r} found {text.count(marker)} times in turn {turn_id}.")
+        cut = text.find(marker) + len(marker)
+        for index, (paragraph, (start, end, _)) in enumerate(turn_spans):
+            if start < cut < end:
+                first_end = start + len(text[start:cut].rstrip())
+                second_start = cut + (len(text[cut:end]) - len(text[cut:end].lstrip()))
+                turn_spans[index:index + 1] = [
+                    (paragraph, (start, first_end, text[start:first_end])),
+                    (paragraph, (second_start, end, text[second_start:end])),
+                ]
+                break
+        else:
+            raise RuntimeError(f"Manual split {marker!r} is not inside a sentence of turn {turn_id}.")
+    return turn_spans
+
+
 def row_type(turn: dict[str, Any], sentence: str) -> str:
     if TRANSCRIPT_NOTE.match(sentence):
         return "Transcript note"
@@ -170,6 +210,7 @@ def build_sentences(turns: list[dict[str, Any]]) -> list[dict[str, Any]]:
         for paragraph_number, (p_start, p_end) in enumerate(paragraph_spans(turn["text"]), start=1):
             for span in split_paragraph(segmenter, turn["text"][p_start:p_end], p_start):
                 turn_spans.append((paragraph_number, span))
+        turn_spans = apply_manual_splits(turn, turn_spans)
         check_turn_is_complete(turn, [span for _, span in turn_spans])
 
         for sentence_number, (paragraph_number, (start, end, sentence)) in enumerate(turn_spans, start=1):
@@ -207,7 +248,8 @@ def write_outputs(records: list[dict[str, Any]], output_dir: Path) -> tuple[Path
         writer.writeheader()
         writer.writerows(records)
 
-    with jsonl_path.open("w", encoding="utf-8") as file:
+    # newline="\n": same line endings, and so the same fingerprint, on every computer
+    with jsonl_path.open("w", encoding="utf-8", newline="\n") as file:
         for record in records:
             file.write(json.dumps(record, ensure_ascii=False) + "\n")
 

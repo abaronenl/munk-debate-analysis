@@ -500,10 +500,14 @@ def write_jsonl(
 ) -> None:
     """
     Write records as newline-delimited JSON.
+
+    newline="\\n" keeps the same line endings on Windows, macOS and Linux,
+    so the file gets the same SHA-256 fingerprint on every computer.
     """
     with output_path.open(
         "w",
         encoding="utf-8",
+        newline="\n",
     ) as file:
         for record in records:
             file.write(

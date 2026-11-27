@@ -199,6 +199,10 @@ def build_coding_header(source, target) -> None:
         width = source.column_dimensions[get_column_letter(old)].width
         if width:
             target.column_dimensions[get_column_letter(new)].width = width
+    # All 28 tick columns (H to AI) get the same width as the second one
+    tick_width = target.column_dimensions["I"].width
+    for column in range(8, 36):
+        target.column_dimensions[get_column_letter(column)].width = tick_width
     # Munk has turns and debate phases instead of speeches and timestamps
     for column, name in enumerate(["ID", "Turn", "Phase", "Speaker", "Side", "Row type", "Sentence"], start=1):
         target.cell(3, column).value = name
